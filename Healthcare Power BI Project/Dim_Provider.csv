@@ -1,0 +1,751 @@
+Provider_ID,Provider_Name,Specialty,Experience_Years
+PR320,Provider_0,Oncology,8.0
+PR013,Provider_1,Dermatology,29.0
+PR138,Provider_2,Orthopedics,26.0
+PR112,Provider_3,Oncology,10.0
+PR369,Provider_4,General Practice,26.0
+PR339,Provider_5,Emergency Medicine,
+PR447,Provider_6,Orthopedics,19.0
+PR044,Provider_7,Orthopedics,9.0
+PR211,Provider_8,Oncology,7.0
+PR015,Provider_9,,4.0
+PR110,Provider_10,General Practice,26.0
+PR253,Provider_11,Oncology,21.0
+PR014,Provider_12,General Practice,18.0
+PR100,Provider_13,General Practice,13.0
+PR325,Provider_14,Emergency Medicine,11.0
+PR273,Provider_15,Orthopedics,29.0
+PR111,Provider_16,Dermatology,24.0
+PR295,Provider_17,Emergency Medicine,4.0
+PR405,Provider_18,Emergency Medicine,25.0
+PR004,Provider_19,General Practice,21.0
+PR403,Provider_20,Neurology,29.0
+PR350,Provider_21,Orthopedics,25.0
+PR171,Provider_22,Pediatrics,4.0
+PR078,Provider_23,Emergency Medicine,10.0
+PR479,Provider_24,Dermatology,5.0
+PR169,Provider_25,Neurology,9.0
+PR047,Provider_26,Neurology,24.0
+PR049,Provider_27,Pediatrics,3.0
+PR424,Provider_28,Emergency Medicine,17.0
+PR302,Provider_29,Dermatology,3.0
+PR404,Provider_30,Orthopedics,16.0
+PR365,Provider_31,Cardiology,4.0
+PR269,Provider_32,Dermatology,18.0
+PR487,Provider_33,Pediatrics,17.0
+PR190,Provider_34,,7.0
+PR277,Provider_35,,24.0
+PR415,Provider_36,Dermatology,23.0
+PR310,Provider_37,Cardiology,5.0
+PR431,Provider_38,Cardiology,12.0
+PR289,Provider_39,General Practice,17.0
+PR353,Provider_40,General Practice,23.0
+PR023,Provider_41,Oncology,13.0
+PR114,Provider_42,,23.0
+PR145,Provider_43,Emergency Medicine,25.0
+PR040,Provider_44,Dermatology,
+PR117,Provider_45,Dermatology,9.0
+PR051,Provider_46,Emergency Medicine,17.0
+PR139,Provider_47,,17.0
+PR318,Provider_48,Neurology,20.0
+PR183,Provider_49,Neurology,16.0
+PR186,Provider_50,Oncology,25.0
+PR105,Provider_51,Neurology,22.0
+PR134,Provider_52,General Practice,13.0
+PR469,Provider_53,Dermatology,
+PR325,Provider_54,Oncology,19.0
+PR305,Provider_55,Dermatology,17.0
+PR086,Provider_56,Emergency Medicine,
+PR365,Provider_57,Cardiology,12.0
+PR082,Provider_58,General Practice,29.0
+PR190,Provider_59,Orthopedics,9.0
+PR495,Provider_60,General Practice,19.0
+PR320,Provider_61,Oncology,12.0
+PR279,Provider_62,Orthopedics,9.0
+PR343,Provider_63,Cardiology,7.0
+PR422,Provider_64,Oncology,28.0
+PR388,Provider_65,Pediatrics,14.0
+PR115,Provider_66,Dermatology,20.0
+PR017,Provider_67,Cardiology,19.0
+PR158,Provider_68,Dermatology,26.0
+PR134,Provider_69,Neurology,15.0
+PR106,Provider_70,,
+PR472,Provider_71,Pediatrics,21.0
+PR439,Provider_72,Cardiology,5.0
+PR158,Provider_73,Pediatrics,3.0
+PR328,Provider_74,Orthopedics,12.0
+PR198,Provider_75,Pediatrics,25.0
+PR458,Provider_76,Dermatology,20.0
+PR230,Provider_77,Dermatology,27.0
+PR133,Provider_78,Oncology,21.0
+PR124,Provider_79,Dermatology,4.0
+PR281,Provider_80,Oncology,21.0
+PR132,Provider_81,Dermatology,23.0
+PR293,Provider_82,Orthopedics,16.0
+PR449,Provider_83,Emergency Medicine,25.0
+PR200,Provider_84,Oncology,7.0
+PR110,Provider_85,General Practice,13.0
+PR499,Provider_86,Neurology,21.0
+PR255,Provider_87,Cardiology,10.0
+PR046,Provider_88,Dermatology,26.0
+PR024,Provider_89,Pediatrics,7.0
+PR055,Provider_90,,14.0
+PR314,Provider_91,Dermatology,26.0
+PR397,Provider_92,Pediatrics,5.0
+PR212,Provider_93,Neurology,3.0
+PR032,Provider_94,Neurology,23.0
+PR191,Provider_95,Neurology,29.0
+PR499,Provider_96,Pediatrics,11.0
+PR265,Provider_97,Dermatology,11.0
+PR486,Provider_98,Neurology,18.0
+PR431,Provider_99,Orthopedics,15.0
+PR006,Provider_100,Oncology,12.0
+PR361,Provider_101,Pediatrics,9.0
+PR341,Provider_102,Pediatrics,10.0
+PR269,Provider_103,Dermatology,26.0
+PR134,Provider_104,Pediatrics,12.0
+PR321,Provider_105,Pediatrics,17.0
+PR056,Provider_106,Neurology,29.0
+PR218,Provider_107,Dermatology,6.0
+PR227,Provider_108,Neurology,7.0
+PR477,Provider_109,Oncology,14.0
+PR438,Provider_110,Emergency Medicine,13.0
+PR132,Provider_111,,8.0
+PR251,Provider_112,Emergency Medicine,10.0
+PR090,Provider_113,Neurology,9.0
+PR457,Provider_114,Oncology,18.0
+PR436,Provider_115,Dermatology,27.0
+PR150,Provider_116,Cardiology,26.0
+PR320,Provider_117,Neurology,2.0
+PR305,Provider_118,Emergency Medicine,5.0
+PR077,Provider_119,Orthopedics,29.0
+PR382,Provider_120,Emergency Medicine,5.0
+PR270,Provider_121,Orthopedics,6.0
+PR390,Provider_122,Pediatrics,19.0
+PR266,Provider_123,Oncology,8.0
+PR001,Provider_124,Orthopedics,16.0
+PR163,Provider_125,Emergency Medicine,13.0
+PR010,Provider_126,Pediatrics,
+PR465,Provider_127,Cardiology,22.0
+PR440,Provider_128,,20.0
+PR416,Provider_129,Dermatology,17.0
+PR154,Provider_130,Dermatology,7.0
+PR029,Provider_131,Orthopedics,25.0
+PR440,Provider_132,Cardiology,13.0
+PR474,Provider_133,Orthopedics,4.0
+PR043,Provider_134,Oncology,4.0
+PR243,Provider_135,,6.0
+PR035,Provider_136,Cardiology,28.0
+PR381,Provider_137,Cardiology,19.0
+PR383,Provider_138,Oncology,29.0
+PR065,Provider_139,Cardiology,12.0
+PR238,Provider_140,Emergency Medicine,22.0
+PR275,Provider_141,Cardiology,7.0
+PR133,Provider_142,Dermatology,27.0
+PR437,Provider_143,Emergency Medicine,10.0
+PR212,Provider_144,Emergency Medicine,26.0
+PR106,Provider_145,Oncology,19.0
+PR270,Provider_146,General Practice,7.0
+PR365,Provider_147,General Practice,3.0
+PR101,Provider_148,Cardiology,13.0
+PR156,Provider_149,Emergency Medicine,13.0
+PR498,Provider_150,General Practice,18.0
+PR325,Provider_151,General Practice,28.0
+PR220,Provider_152,Cardiology,26.0
+PR259,Provider_153,General Practice,20.0
+PR061,Provider_154,Orthopedics,28.0
+PR113,Provider_155,Pediatrics,8.0
+PR170,Provider_156,Oncology,29.0
+PR295,Provider_157,Pediatrics,9.0
+PR116,Provider_158,Cardiology,7.0
+PR111,Provider_159,Dermatology,1.0
+PR036,Provider_160,Oncology,3.0
+PR316,Provider_161,Cardiology,13.0
+PR115,Provider_162,Emergency Medicine,28.0
+PR453,Provider_163,Dermatology,25.0
+PR430,Provider_164,Pediatrics,28.0
+PR036,Provider_165,Cardiology,17.0
+PR120,Provider_166,Emergency Medicine,25.0
+PR335,Provider_167,Oncology,24.0
+PR108,Provider_168,Oncology,1.0
+PR067,Provider_169,Neurology,6.0
+PR468,Provider_170,Emergency Medicine,21.0
+PR286,Provider_171,Orthopedics,6.0
+PR237,Provider_172,General Practice,26.0
+PR393,Provider_173,Dermatology,
+PR404,Provider_174,Emergency Medicine,13.0
+PR096,Provider_175,Neurology,13.0
+PR049,Provider_176,General Practice,29.0
+PR216,Provider_177,General Practice,15.0
+PR212,Provider_178,Cardiology,
+PR234,Provider_179,General Practice,16.0
+PR365,Provider_180,Orthopedics,22.0
+PR337,Provider_181,Oncology,21.0
+PR493,Provider_182,Neurology,11.0
+PR050,Provider_183,General Practice,28.0
+PR202,Provider_184,Cardiology,5.0
+PR170,Provider_185,Orthopedics,4.0
+PR431,Provider_186,Pediatrics,3.0
+PR125,Provider_187,Oncology,19.0
+PR096,Provider_188,Oncology,20.0
+PR225,Provider_189,Neurology,25.0
+PR211,Provider_190,Oncology,18.0
+PR140,Provider_191,General Practice,15.0
+PR125,Provider_192,Cardiology,9.0
+PR462,Provider_193,Oncology,17.0
+PR222,Provider_194,Oncology,
+PR431,Provider_195,Pediatrics,15.0
+PR276,Provider_196,Pediatrics,
+PR026,Provider_197,Dermatology,21.0
+PR500,Provider_198,Orthopedics,22.0
+PR419,Provider_199,General Practice,22.0
+PR485,Provider_200,Oncology,3.0
+PR464,Provider_201,Emergency Medicine,16.0
+PR425,Provider_202,Oncology,
+PR084,Provider_203,Cardiology,25.0
+PR243,Provider_204,Dermatology,11.0
+PR107,Provider_205,Orthopedics,12.0
+PR201,Provider_206,Emergency Medicine,10.0
+PR030,Provider_207,Dermatology,16.0
+PR190,Provider_208,Neurology,8.0
+PR493,Provider_209,Orthopedics,6.0
+PR133,Provider_210,Oncology,
+PR393,Provider_211,Oncology,24.0
+PR228,Provider_212,Orthopedics,28.0
+PR212,Provider_213,Oncology,21.0
+PR479,Provider_214,General Practice,8.0
+PR498,Provider_215,Orthopedics,26.0
+PR278,Provider_216,Dermatology,28.0
+PR360,Provider_217,Orthopedics,4.0
+PR078,Provider_218,Emergency Medicine,26.0
+PR149,Provider_219,Oncology,8.0
+PR485,Provider_220,General Practice,26.0
+PR290,Provider_221,General Practice,28.0
+PR272,Provider_222,Neurology,18.0
+PR374,Provider_223,Dermatology,
+PR029,Provider_224,Pediatrics,
+PR293,Provider_225,Pediatrics,5.0
+PR252,Provider_226,Orthopedics,9.0
+PR427,Provider_227,,4.0
+PR079,Provider_228,Cardiology,27.0
+PR481,Provider_229,Orthopedics,22.0
+PR041,Provider_230,Neurology,17.0
+PR093,Provider_231,,9.0
+PR298,Provider_232,Dermatology,1.0
+PR338,Provider_233,Dermatology,
+PR118,Provider_234,Dermatology,20.0
+PR060,Provider_235,Dermatology,13.0
+PR446,Provider_236,Neurology,28.0
+PR124,Provider_237,Neurology,16.0
+PR298,Provider_238,General Practice,29.0
+PR310,Provider_239,Emergency Medicine,13.0
+PR210,Provider_240,Pediatrics,14.0
+PR292,Provider_241,Oncology,3.0
+PR262,Provider_242,Dermatology,29.0
+PR468,Provider_243,Cardiology,6.0
+PR103,Provider_244,Oncology,18.0
+PR359,Provider_245,Neurology,19.0
+PR120,Provider_246,Cardiology,5.0
+PR198,Provider_247,,15.0
+PR336,Provider_248,Cardiology,25.0
+PR150,Provider_249,General Practice,2.0
+PR159,Provider_250,Neurology,10.0
+PR376,Provider_251,Cardiology,24.0
+PR037,Provider_252,Dermatology,18.0
+PR230,Provider_253,Orthopedics,27.0
+PR500,Provider_254,Cardiology,13.0
+PR499,Provider_255,General Practice,5.0
+PR037,Provider_256,Oncology,23.0
+PR107,Provider_257,Neurology,24.0
+PR133,Provider_258,Emergency Medicine,1.0
+PR467,Provider_259,General Practice,
+PR441,Provider_260,Cardiology,1.0
+PR440,Provider_261,Neurology,18.0
+PR185,Provider_262,Orthopedics,15.0
+PR079,Provider_263,Cardiology,17.0
+PR417,Provider_264,General Practice,11.0
+PR352,Provider_265,Pediatrics,21.0
+PR306,Provider_266,Dermatology,26.0
+PR494,Provider_267,Emergency Medicine,25.0
+PR327,Provider_268,Oncology,22.0
+PR004,Provider_269,General Practice,27.0
+PR409,Provider_270,Neurology,27.0
+PR150,Provider_271,Emergency Medicine,17.0
+PR332,Provider_272,Emergency Medicine,
+PR470,Provider_273,Emergency Medicine,
+PR068,Provider_274,Cardiology,2.0
+PR058,Provider_275,Dermatology,9.0
+PR054,Provider_276,,3.0
+PR277,Provider_277,Neurology,1.0
+PR137,Provider_278,Cardiology,21.0
+PR303,Provider_279,Pediatrics,16.0
+PR359,Provider_280,Dermatology,23.0
+PR102,Provider_281,Dermatology,6.0
+PR318,Provider_282,Neurology,28.0
+PR132,Provider_283,Oncology,17.0
+PR245,Provider_284,Pediatrics,5.0
+PR453,Provider_285,General Practice,5.0
+PR424,Provider_286,Cardiology,6.0
+PR047,Provider_287,Orthopedics,3.0
+PR212,Provider_288,Cardiology,21.0
+PR139,Provider_289,Emergency Medicine,23.0
+PR002,Provider_290,Cardiology,5.0
+PR386,Provider_291,General Practice,21.0
+PR319,Provider_292,Cardiology,5.0
+PR131,Provider_293,Pediatrics,10.0
+PR371,Provider_294,Pediatrics,10.0
+PR276,Provider_295,Dermatology,19.0
+PR214,Provider_296,Neurology,17.0
+PR005,Provider_297,Oncology,21.0
+PR038,Provider_298,Orthopedics,14.0
+PR442,Provider_299,Emergency Medicine,9.0
+PR452,Provider_300,Cardiology,14.0
+PR273,Provider_301,Cardiology,1.0
+PR418,Provider_302,General Practice,19.0
+PR292,Provider_303,Neurology,13.0
+PR075,Provider_304,Pediatrics,13.0
+PR064,Provider_305,Orthopedics,4.0
+PR155,Provider_306,Dermatology,1.0
+PR450,Provider_307,Pediatrics,17.0
+PR399,Provider_308,Emergency Medicine,8.0
+PR431,Provider_309,Neurology,2.0
+PR450,Provider_310,Emergency Medicine,28.0
+PR106,Provider_311,Oncology,8.0
+PR125,Provider_312,Dermatology,7.0
+PR052,Provider_313,Oncology,26.0
+PR391,Provider_314,General Practice,26.0
+PR443,Provider_315,Emergency Medicine,2.0
+PR204,Provider_316,,22.0
+PR311,Provider_317,Cardiology,22.0
+PR078,Provider_318,Oncology,3.0
+PR465,Provider_319,Neurology,27.0
+PR433,Provider_320,Emergency Medicine,18.0
+PR489,Provider_321,Orthopedics,12.0
+PR406,Provider_322,Dermatology,1.0
+PR441,Provider_323,Pediatrics,22.0
+PR013,Provider_324,Neurology,
+PR369,Provider_325,Neurology,5.0
+PR167,Provider_326,General Practice,27.0
+PR466,Provider_327,Oncology,25.0
+PR402,Provider_328,,
+PR433,Provider_329,Emergency Medicine,
+PR406,Provider_330,Cardiology,15.0
+PR134,Provider_331,,23.0
+PR394,Provider_332,Dermatology,15.0
+PR055,Provider_333,General Practice,5.0
+PR437,Provider_334,Neurology,21.0
+PR430,Provider_335,Emergency Medicine,14.0
+PR112,Provider_336,,
+PR409,Provider_337,General Practice,11.0
+PR231,Provider_338,Dermatology,19.0
+PR153,Provider_339,Dermatology,7.0
+PR398,Provider_340,,6.0
+PR114,Provider_341,Dermatology,28.0
+PR012,Provider_342,General Practice,2.0
+PR097,Provider_343,Pediatrics,6.0
+PR165,Provider_344,General Practice,18.0
+PR433,Provider_345,Oncology,2.0
+PR484,Provider_346,General Practice,18.0
+PR140,Provider_347,Dermatology,15.0
+PR321,Provider_348,Emergency Medicine,27.0
+PR200,Provider_349,Oncology,19.0
+PR491,Provider_350,Dermatology,2.0
+PR269,Provider_351,Cardiology,20.0
+PR470,Provider_352,,25.0
+PR058,Provider_353,Emergency Medicine,6.0
+PR486,Provider_354,Emergency Medicine,1.0
+PR090,Provider_355,Oncology,24.0
+PR482,Provider_356,Pediatrics,15.0
+PR133,Provider_357,Emergency Medicine,28.0
+PR055,Provider_358,Cardiology,23.0
+PR218,Provider_359,General Practice,10.0
+PR365,Provider_360,Dermatology,19.0
+PR157,Provider_361,Cardiology,17.0
+PR304,Provider_362,Cardiology,5.0
+PR256,Provider_363,Pediatrics,29.0
+PR193,Provider_364,Oncology,4.0
+PR289,Provider_365,Oncology,10.0
+PR128,Provider_366,Neurology,24.0
+PR355,Provider_367,Pediatrics,17.0
+PR001,Provider_368,,10.0
+PR463,Provider_369,Oncology,17.0
+PR270,Provider_370,Dermatology,28.0
+PR360,Provider_371,Emergency Medicine,20.0
+PR371,Provider_372,Pediatrics,24.0
+PR336,Provider_373,Emergency Medicine,5.0
+PR183,Provider_374,Cardiology,2.0
+PR035,Provider_375,Dermatology,6.0
+PR333,Provider_376,Dermatology,21.0
+PR166,Provider_377,Cardiology,2.0
+PR157,Provider_378,Pediatrics,13.0
+PR425,Provider_379,Cardiology,11.0
+PR360,Provider_380,Emergency Medicine,11.0
+PR151,Provider_381,Neurology,16.0
+PR155,Provider_382,,
+PR205,Provider_383,Orthopedics,19.0
+PR202,Provider_384,Orthopedics,15.0
+PR148,Provider_385,Emergency Medicine,25.0
+PR064,Provider_386,General Practice,23.0
+PR211,Provider_387,Oncology,23.0
+PR471,Provider_388,Cardiology,16.0
+PR339,Provider_389,,11.0
+PR452,Provider_390,General Practice,22.0
+PR308,Provider_391,General Practice,16.0
+PR151,Provider_392,Emergency Medicine,8.0
+PR274,Provider_393,Emergency Medicine,4.0
+PR001,Provider_394,General Practice,8.0
+PR144,Provider_395,Dermatology,4.0
+PR215,Provider_396,Emergency Medicine,24.0
+PR290,Provider_397,Neurology,25.0
+PR328,Provider_398,Emergency Medicine,3.0
+PR233,Provider_399,Cardiology,3.0
+PR222,Provider_400,Emergency Medicine,27.0
+PR107,Provider_401,Dermatology,29.0
+PR237,Provider_402,General Practice,18.0
+PR451,Provider_403,Cardiology,29.0
+PR399,Provider_404,Emergency Medicine,26.0
+PR085,Provider_405,Dermatology,19.0
+PR043,Provider_406,Neurology,19.0
+PR258,Provider_407,Emergency Medicine,21.0
+PR317,Provider_408,Dermatology,5.0
+PR168,Provider_409,Neurology,18.0
+PR410,Provider_410,General Practice,28.0
+PR376,Provider_411,Emergency Medicine,10.0
+PR337,Provider_412,Neurology,29.0
+PR113,Provider_413,Cardiology,22.0
+PR100,Provider_414,General Practice,21.0
+PR013,Provider_415,Cardiology,6.0
+PR123,Provider_416,,1.0
+PR238,Provider_417,Pediatrics,5.0
+PR425,Provider_418,Emergency Medicine,9.0
+PR037,Provider_419,Neurology,12.0
+PR208,Provider_420,Pediatrics,26.0
+PR315,Provider_421,Pediatrics,14.0
+PR098,Provider_422,Neurology,2.0
+PR349,Provider_423,General Practice,17.0
+PR248,Provider_424,Emergency Medicine,14.0
+PR122,Provider_425,Orthopedics,26.0
+PR329,Provider_426,Cardiology,13.0
+PR003,Provider_427,Dermatology,27.0
+PR376,Provider_428,Cardiology,9.0
+PR386,Provider_429,Dermatology,26.0
+PR054,Provider_430,Cardiology,25.0
+PR213,Provider_431,Neurology,15.0
+PR088,Provider_432,Orthopedics,25.0
+PR479,Provider_433,Emergency Medicine,22.0
+PR259,Provider_434,Dermatology,15.0
+PR026,Provider_435,Emergency Medicine,24.0
+PR125,Provider_436,Emergency Medicine,11.0
+PR425,Provider_437,Emergency Medicine,16.0
+PR229,Provider_438,Oncology,29.0
+PR401,Provider_439,General Practice,17.0
+PR334,Provider_440,Cardiology,26.0
+PR494,Provider_441,Emergency Medicine,4.0
+PR298,Provider_442,Cardiology,1.0
+PR476,Provider_443,Emergency Medicine,8.0
+PR446,Provider_444,Dermatology,17.0
+PR307,Provider_445,General Practice,3.0
+PR360,Provider_446,General Practice,29.0
+PR253,Provider_447,Neurology,20.0
+PR416,Provider_448,Oncology,15.0
+PR274,Provider_449,Neurology,15.0
+PR449,Provider_450,Neurology,24.0
+PR372,Provider_451,Neurology,22.0
+PR238,Provider_452,Neurology,14.0
+PR130,Provider_453,Neurology,26.0
+PR124,Provider_454,Orthopedics,28.0
+PR319,Provider_455,General Practice,23.0
+PR383,Provider_456,Neurology,14.0
+PR261,Provider_457,Emergency Medicine,24.0
+PR314,Provider_458,General Practice,2.0
+PR138,Provider_459,General Practice,13.0
+PR039,Provider_460,Pediatrics,26.0
+PR143,Provider_461,Orthopedics,14.0
+PR136,Provider_462,Neurology,27.0
+PR160,Provider_463,Cardiology,24.0
+PR271,Provider_464,Dermatology,19.0
+PR070,Provider_465,Oncology,7.0
+PR116,Provider_466,Emergency Medicine,3.0
+PR347,Provider_467,Cardiology,15.0
+PR354,Provider_468,Orthopedics,23.0
+PR033,Provider_469,Dermatology,14.0
+PR204,Provider_470,Orthopedics,11.0
+PR272,Provider_471,Emergency Medicine,15.0
+PR208,Provider_472,General Practice,28.0
+PR104,Provider_473,Dermatology,13.0
+PR211,Provider_474,General Practice,18.0
+PR453,Provider_475,Emergency Medicine,26.0
+PR293,Provider_476,Cardiology,6.0
+PR348,Provider_477,Emergency Medicine,3.0
+PR429,Provider_478,Cardiology,19.0
+PR383,Provider_479,Dermatology,15.0
+PR191,Provider_480,Dermatology,25.0
+PR003,Provider_481,Neurology,23.0
+PR176,Provider_482,Orthopedics,5.0
+PR377,Provider_483,Neurology,28.0
+PR427,Provider_484,Orthopedics,10.0
+PR477,Provider_485,Neurology,7.0
+PR210,Provider_486,General Practice,25.0
+PR374,Provider_487,Dermatology,
+PR274,Provider_488,Cardiology,7.0
+PR302,Provider_489,Orthopedics,22.0
+PR111,Provider_490,Emergency Medicine,
+PR110,Provider_491,,12.0
+PR218,Provider_492,Cardiology,25.0
+PR015,Provider_493,Neurology,17.0
+PR169,Provider_494,Orthopedics,13.0
+PR340,Provider_495,Oncology,20.0
+PR203,Provider_496,General Practice,25.0
+PR083,Provider_497,Dermatology,4.0
+PR234,Provider_498,Cardiology,10.0
+PR064,Provider_499,Dermatology,3.0
+PR312,Provider_500,Oncology,9.0
+PR014,Provider_501,Orthopedics,13.0
+PR198,Provider_502,Orthopedics,18.0
+PR283,Provider_503,Emergency Medicine,15.0
+PR014,Provider_504,Oncology,4.0
+PR322,Provider_505,Cardiology,15.0
+PR068,Provider_506,Emergency Medicine,22.0
+PR231,Provider_507,,2.0
+PR026,Provider_508,Emergency Medicine,15.0
+PR190,Provider_509,Pediatrics,8.0
+PR106,Provider_510,Cardiology,8.0
+PR164,Provider_511,Pediatrics,17.0
+PR381,Provider_512,Oncology,12.0
+PR190,Provider_513,Neurology,
+PR377,Provider_514,Pediatrics,10.0
+PR416,Provider_515,General Practice,9.0
+PR127,Provider_516,Emergency Medicine,5.0
+PR041,Provider_517,Neurology,6.0
+PR010,Provider_518,Emergency Medicine,20.0
+PR270,Provider_519,Pediatrics,26.0
+PR500,Provider_520,Emergency Medicine,2.0
+PR175,Provider_521,Oncology,27.0
+PR326,Provider_522,Neurology,24.0
+PR391,Provider_523,Oncology,27.0
+PR326,Provider_524,Pediatrics,13.0
+PR378,Provider_525,Oncology,6.0
+PR475,Provider_526,General Practice,5.0
+PR100,Provider_527,Pediatrics,25.0
+PR011,Provider_528,Pediatrics,1.0
+PR077,Provider_529,Pediatrics,21.0
+PR064,Provider_530,Cardiology,22.0
+PR335,Provider_531,Emergency Medicine,21.0
+PR282,Provider_532,Cardiology,6.0
+PR109,Provider_533,Cardiology,6.0
+PR350,Provider_534,,23.0
+PR384,Provider_535,Neurology,16.0
+PR084,Provider_536,Emergency Medicine,4.0
+PR304,Provider_537,Oncology,11.0
+PR374,Provider_538,Orthopedics,24.0
+PR058,Provider_539,Pediatrics,23.0
+PR410,Provider_540,Oncology,9.0
+PR483,Provider_541,Pediatrics,23.0
+PR055,Provider_542,General Practice,3.0
+PR013,Provider_543,Pediatrics,19.0
+PR156,Provider_544,Cardiology,8.0
+PR339,Provider_545,Emergency Medicine,5.0
+PR480,Provider_546,Orthopedics,4.0
+PR199,Provider_547,Dermatology,
+PR358,Provider_548,Pediatrics,6.0
+PR038,Provider_549,Oncology,2.0
+PR346,Provider_550,Cardiology,20.0
+PR314,Provider_551,Dermatology,28.0
+PR051,Provider_552,Orthopedics,11.0
+PR387,Provider_553,Dermatology,4.0
+PR426,Provider_554,Cardiology,15.0
+PR301,Provider_555,Emergency Medicine,6.0
+PR061,Provider_556,Emergency Medicine,22.0
+PR492,Provider_557,Neurology,17.0
+PR392,Provider_558,Emergency Medicine,24.0
+PR174,Provider_559,Neurology,6.0
+PR215,Provider_560,Dermatology,19.0
+PR186,Provider_561,General Practice,25.0
+PR253,Provider_562,Oncology,2.0
+PR171,Provider_563,Oncology,15.0
+PR425,Provider_564,Dermatology,11.0
+PR412,Provider_565,Pediatrics,8.0
+PR053,Provider_566,Pediatrics,26.0
+PR481,Provider_567,Emergency Medicine,19.0
+PR318,Provider_568,Oncology,13.0
+PR415,Provider_569,Oncology,12.0
+PR354,Provider_570,Neurology,5.0
+PR218,Provider_571,General Practice,
+PR367,Provider_572,Cardiology,26.0
+PR483,Provider_573,Pediatrics,
+PR136,Provider_574,Oncology,4.0
+PR405,Provider_575,Neurology,19.0
+PR270,Provider_576,Orthopedics,20.0
+PR242,Provider_577,Neurology,1.0
+PR218,Provider_578,Pediatrics,20.0
+PR366,Provider_579,Pediatrics,17.0
+PR135,Provider_580,Neurology,12.0
+PR426,Provider_581,Cardiology,15.0
+PR416,Provider_582,Dermatology,1.0
+PR044,Provider_583,Pediatrics,26.0
+PR441,Provider_584,Neurology,14.0
+PR122,Provider_585,Oncology,6.0
+PR233,Provider_586,Neurology,5.0
+PR306,Provider_587,General Practice,11.0
+PR190,Provider_588,Dermatology,4.0
+PR015,Provider_589,Orthopedics,13.0
+PR426,Provider_590,Cardiology,11.0
+PR091,Provider_591,Emergency Medicine,3.0
+PR107,Provider_592,,1.0
+PR399,Provider_593,Dermatology,6.0
+PR171,Provider_594,Dermatology,18.0
+PR441,Provider_595,Dermatology,24.0
+PR351,Provider_596,Orthopedics,10.0
+PR139,Provider_597,,5.0
+PR006,Provider_598,Dermatology,23.0
+PR475,Provider_599,,10.0
+PR043,Provider_600,,
+PR361,Provider_601,Emergency Medicine,2.0
+PR245,Provider_602,Dermatology,13.0
+PR380,Provider_603,Neurology,8.0
+PR346,Provider_604,Oncology,2.0
+PR323,Provider_605,General Practice,20.0
+PR246,Provider_606,Oncology,1.0
+PR397,Provider_607,Emergency Medicine,5.0
+PR047,Provider_608,Dermatology,9.0
+PR111,Provider_609,Emergency Medicine,17.0
+PR346,Provider_610,,9.0
+PR154,Provider_611,Pediatrics,11.0
+PR291,Provider_612,Dermatology,15.0
+PR237,Provider_613,Pediatrics,24.0
+PR266,Provider_614,Neurology,6.0
+PR213,Provider_615,General Practice,23.0
+PR373,Provider_616,Cardiology,3.0
+PR166,Provider_617,Emergency Medicine,17.0
+PR352,Provider_618,,5.0
+PR136,Provider_619,General Practice,28.0
+PR126,Provider_620,Dermatology,
+PR061,Provider_621,Pediatrics,18.0
+PR097,Provider_622,Oncology,14.0
+PR060,Provider_623,Pediatrics,21.0
+PR268,Provider_624,Orthopedics,
+PR382,Provider_625,Pediatrics,11.0
+PR093,Provider_626,Orthopedics,9.0
+PR109,Provider_627,Neurology,2.0
+PR243,Provider_628,Oncology,12.0
+PR363,Provider_629,Oncology,3.0
+PR489,Provider_630,Cardiology,3.0
+PR263,Provider_631,Dermatology,1.0
+PR142,Provider_632,Orthopedics,8.0
+PR051,Provider_633,Cardiology,22.0
+PR098,Provider_634,Pediatrics,28.0
+PR114,Provider_635,Pediatrics,
+PR090,Provider_636,Cardiology,8.0
+PR008,Provider_637,Oncology,11.0
+PR268,Provider_638,Pediatrics,9.0
+PR138,Provider_639,Emergency Medicine,5.0
+PR488,Provider_640,,14.0
+PR277,Provider_641,Neurology,28.0
+PR349,Provider_642,Emergency Medicine,3.0
+PR064,Provider_643,Cardiology,21.0
+PR435,Provider_644,Emergency Medicine,5.0
+PR246,Provider_645,Orthopedics,5.0
+PR437,Provider_646,Orthopedics,19.0
+PR288,Provider_647,Cardiology,27.0
+PR235,Provider_648,Emergency Medicine,14.0
+PR221,Provider_649,Orthopedics,26.0
+PR093,Provider_650,Oncology,
+PR026,Provider_651,Emergency Medicine,25.0
+PR471,Provider_652,Oncology,13.0
+PR239,Provider_653,Orthopedics,10.0
+PR412,Provider_654,Neurology,25.0
+PR201,Provider_655,Orthopedics,18.0
+PR038,Provider_656,,8.0
+PR315,Provider_657,General Practice,8.0
+PR027,Provider_658,Dermatology,7.0
+PR075,Provider_659,Pediatrics,8.0
+PR282,Provider_660,Emergency Medicine,14.0
+PR152,Provider_661,General Practice,19.0
+PR497,Provider_662,Orthopedics,29.0
+PR060,Provider_663,Neurology,6.0
+PR383,Provider_664,Cardiology,1.0
+PR304,Provider_665,Orthopedics,23.0
+PR396,Provider_666,Neurology,15.0
+PR113,Provider_667,Dermatology,1.0
+PR262,Provider_668,Orthopedics,25.0
+PR226,Provider_669,Oncology,
+PR222,Provider_670,Cardiology,1.0
+PR431,Provider_671,Neurology,15.0
+PR496,Provider_672,Neurology,
+PR153,Provider_673,Neurology,2.0
+PR311,Provider_674,Dermatology,14.0
+PR305,Provider_675,Orthopedics,21.0
+PR371,Provider_676,Dermatology,8.0
+PR474,Provider_677,Emergency Medicine,8.0
+PR104,Provider_678,Pediatrics,19.0
+PR106,Provider_679,Pediatrics,7.0
+PR331,Provider_680,Emergency Medicine,19.0
+PR079,Provider_681,Orthopedics,6.0
+PR087,Provider_682,Oncology,6.0
+PR038,Provider_683,Dermatology,3.0
+PR002,Provider_684,Cardiology,7.0
+PR226,Provider_685,Neurology,19.0
+PR297,Provider_686,Neurology,8.0
+PR146,Provider_687,Orthopedics,10.0
+PR116,Provider_688,Oncology,20.0
+PR354,Provider_689,Pediatrics,
+PR352,Provider_690,Pediatrics,15.0
+PR228,Provider_691,Neurology,29.0
+PR344,Provider_692,Orthopedics,1.0
+PR462,Provider_693,Dermatology,20.0
+PR394,Provider_694,Pediatrics,7.0
+PR313,Provider_695,Dermatology,27.0
+PR331,Provider_696,Oncology,4.0
+PR467,Provider_697,Pediatrics,29.0
+PR213,Provider_698,Pediatrics,6.0
+PR273,Provider_699,General Practice,25.0
+PR324,Provider_700,Pediatrics,1.0
+PR455,Provider_701,Emergency Medicine,29.0
+PR414,Provider_702,Cardiology,5.0
+PR036,Provider_703,Emergency Medicine,27.0
+PR083,Provider_704,Orthopedics,23.0
+PR154,Provider_705,Orthopedics,1.0
+PR375,Provider_706,Dermatology,4.0
+PR285,Provider_707,Emergency Medicine,22.0
+PR145,Provider_708,Emergency Medicine,2.0
+PR063,Provider_709,Emergency Medicine,10.0
+PR345,Provider_710,Oncology,5.0
+PR350,Provider_711,Pediatrics,27.0
+PR472,Provider_712,Cardiology,10.0
+PR251,Provider_713,Dermatology,1.0
+PR247,Provider_714,Emergency Medicine,22.0
+PR041,Provider_715,Emergency Medicine,6.0
+PR020,Provider_716,General Practice,13.0
+PR217,Provider_717,Dermatology,15.0
+PR162,Provider_718,Emergency Medicine,4.0
+PR126,Provider_719,Dermatology,13.0
+PR046,Provider_720,Pediatrics,24.0
+PR481,Provider_721,,20.0
+PR418,Provider_722,Dermatology,24.0
+PR288,Provider_723,Cardiology,15.0
+PR476,Provider_724,Cardiology,29.0
+PR500,Provider_725,Orthopedics,8.0
+PR337,Provider_726,General Practice,5.0
+PR135,Provider_727,General Practice,29.0
+PR021,Provider_728,Orthopedics,15.0
+PR379,Provider_729,Dermatology,4.0
+PR236,Provider_730,General Practice,12.0
+PR326,Provider_731,Cardiology,13.0
+PR459,Provider_732,Cardiology,2.0
+PR091,Provider_733,,27.0
+PR293,Provider_734,Pediatrics,19.0
+PR318,Provider_735,General Practice,19.0
+PR246,Provider_736,Dermatology,4.0
+PR046,Provider_737,Orthopedics,4.0
+PR174,Provider_738,Orthopedics,26.0
+PR167,Provider_739,Dermatology,11.0
+PR336,Provider_740,Oncology,27.0
+PR429,Provider_741,Neurology,5.0
+PR165,Provider_742,Pediatrics,20.0
+PR347,Provider_743,Orthopedics,11.0
+PR145,Provider_744,General Practice,10.0
+PR473,Provider_745,Pediatrics,8.0
+PR407,Provider_746,General Practice,6.0
+PR276,Provider_747,Oncology,6.0
+PR228,Provider_748,Cardiology,8.0
+PR158,Provider_749,Pediatrics,23.0

@@ -1,0 +1,301 @@
+Hospital_ID,Hospital_Name,Type,City,State,Bed_Count
+H128,Hospital_0,General,Houston,FL,134.0
+H006,Hospital_1,Pediatric,Chicago,CA,127.0
+H056,Hospital_2,Community,San Antonio,FL,506.0
+H045,Hospital_3,Specialty,Dallas,ny,927.0
+H148,Hospital_4,General,Houston,TX,50.0
+H136,Hospital_5,General,Los Angeles,Texas,100.0
+H179,Hospital_6,General,San Jose,NY,734.0
+H018,Hospital_7,,Chicago,CA,766.0
+H085,Hospital_8,Community,New York,New York,821.0
+H006,Hospital_9,Community,Dallas,NY,495.0
+H044,Hospital_10,General,Chicago,nan,498.0
+H102,Hospital_11,Pediatric,San Jose,CA,930.0
+H006,Hospital_12,Academic,San Antonio,nan,
+H040,Hospital_13,General,San Jose,CA,849.0
+H130,Hospital_14,General,Phoenix,Florida,83.0
+H109,Hospital_15,General,San Jose,Illinois,397.0
+H045,Hospital_16,General,Phoenix,FL,144.0
+H118,Hospital_17,Specialty,San Antonio,TX,121.0
+H162,Hospital_18,Specialty,San Diego,TX,
+H002,Hospital_19,General,Phoenix,CA,203.0
+H162,Hospital_20,,New York,nan,299.0
+H140,Hospital_21,General,San Jose,nan,723.0
+H069,Hospital_22,General,San Jose,nan,487.0
+H032,Hospital_23,General,New York,New York,167.0
+H192,Hospital_24,Specialty,Los Angeles,IL,820.0
+H068,Hospital_25,Community,Philadelphia,nan,940.0
+H019,Hospital_26,General,San Diego,ny,355.0
+H020,Hospital_27,Specialty,Dallas,NY,317.0
+H170,Hospital_28,Specialty,Phoenix,IL,103.0
+H121,Hospital_29,General,New York,FL,285.0
+H162,Hospital_30,Community,San Antonio,nan,438.0
+H146,Hospital_31,General,Phoenix,New York,783.0
+H108,Hospital_32,General,Philadelphia,Illinois,812.0
+H195,Hospital_33,Pediatric,San Antonio,  NY  ,874.0
+H076,Hospital_34,Pediatric,Chicago,ny,450.0
+H111,Hospital_35,,San Jose,ny,673.0
+H166,Hospital_36,General,Chicago,nan,816.0
+H124,Hospital_37,General,Phoenix,Florida,352.0
+H173,Hospital_38,Community,Philadelphia,Texas,968.0
+H116,Hospital_39,Specialty,San Diego,California,256.0
+H141,Hospital_40,General,Phoenix,nan,278.0
+H010,Hospital_41,Specialty,New York,California,902.0
+H046,Hospital_42,General,Houston,nan,959.0
+H058,Hospital_43,Pediatric,Phoenix,TX,627.0
+H016,Hospital_44,General,San Jose,California,124.0
+H047,Hospital_45,Community,San Jose,TX,484.0
+H021,Hospital_46,General,Phoenix,CA,152.0
+H056,Hospital_47,Specialty,San Antonio,IL,471.0
+H128,Hospital_48,Specialty,Houston,Texas,753.0
+H073,Hospital_49,General,New York,  NY  ,813.0
+H075,Hospital_50,,Phoenix,nan,787.0
+H042,Hospital_51,Community,San Antonio,California,
+H054,Hospital_52,Pediatric,San Jose,Texas,355.0
+H188,Hospital_53,Academic,San Jose,nan,147.0
+H130,Hospital_54,Specialty,Philadelphia,FL,899.0
+H122,Hospital_55,Pediatric,Phoenix,New York,847.0
+H035,Hospital_56,General,Houston,nan,384.0
+H146,Hospital_57,General,Los Angeles,FL,908.0
+H033,Hospital_58,General,Houston,CA,484.0
+H076,Hospital_59,General,San Jose,New York,496.0
+H198,Hospital_60,General,San Jose,Illinois,357.0
+H128,Hospital_61,General,Chicago,FL,298.0
+H112,Hospital_62,Academic,San Jose,Texas,215.0
+H137,Hospital_63,General,New York,nan,530.0
+H169,Hospital_64,General,Dallas,Illinois,384.0
+H156,Hospital_65,Specialty,Phoenix,ny,591.0
+H046,Hospital_66,General,Houston,CA,808.0
+H007,Hospital_67,Academic,Dallas,  NY  ,155.0
+H064,Hospital_68,General,San Antonio,IL,612.0
+H054,Hospital_69,Pediatric,Los Angeles,NY,
+H043,Hospital_70,Community,New York,FL,182.0
+H189,Hospital_71,General,Houston,Illinois,846.0
+H176,Hospital_72,General,Dallas,nan,949.0
+H063,Hospital_73,Academic,Los Angeles,CA,187.0
+H132,Hospital_74,Community,Chicago,nan,233.0
+H080,Hospital_75,Community,New York,New York,450.0
+H183,Hospital_76,Community,New York,nan,379.0
+H092,Hospital_77,,Chicago,New York,834.0
+H053,Hospital_78,General,Phoenix,California,557.0
+H050,Hospital_79,General,Chicago,Illinois,901.0
+H113,Hospital_80,Academic,New York,New York,118.0
+H053,Hospital_81,Community,New York,  NY  ,595.0
+H117,Hospital_82,,Dallas,IL,823.0
+H180,Hospital_83,General,San Jose,IL,102.0
+H080,Hospital_84,General,Los Angeles,FL,499.0
+H044,Hospital_85,General,Chicago,Florida,254.0
+H200,Hospital_86,Community,Los Angeles,Texas,175.0
+H102,Hospital_87,Community,Chicago,CA,796.0
+H019,Hospital_88,Academic,San Antonio,CA,92.0
+H010,Hospital_89,Specialty,New York,ny,801.0
+H022,Hospital_90,General,San Jose,nan,932.0
+H126,Hospital_91,Community,Dallas,FL,160.0
+H159,Hospital_92,Community,San Jose,TX,810.0
+H085,Hospital_93,Specialty,San Jose,TX,712.0
+H013,Hospital_94,Community,San Jose,nan,232.0
+H077,Hospital_95,Specialty,Los Angeles,ny,897.0
+H200,Hospital_96,Specialty,Chicago,FL,144.0
+H106,Hospital_97,Specialty,San Diego,Texas,423.0
+H195,Hospital_98,General,San Antonio,FL,961.0
+H173,Hospital_99,General,Houston,NY,569.0
+H003,Hospital_100,General,San Jose,nan,949.0
+H145,Hospital_101,Community,Phoenix,nan,409.0
+H137,Hospital_102,General,Los Angeles,FL,949.0
+H108,Hospital_103,Specialty,Dallas,Florida,745.0
+H054,Hospital_104,Pediatric,Houston,nan,330.0
+H129,Hospital_105,General,San Diego,IL,244.0
+H023,Hospital_106,Specialty,Phoenix,ny,913.0
+H087,Hospital_107,Community,San Diego,FL,244.0
+H091,Hospital_108,General,Houston,FL,716.0
+H191,Hospital_109,General,San Jose,TX,142.0
+H176,Hospital_110,General,Phoenix,IL,721.0
+H053,Hospital_111,General,San Diego,nan,995.0
+H101,Hospital_112,Pediatric,Dallas,nan,110.0
+H036,Hospital_113,Academic,Chicago,TX,683.0
+H183,Hospital_114,Community,New York,New York,100.0
+H175,Hospital_115,Academic,Chicago,nan,452.0
+H060,Hospital_116,Academic,Houston,nan,838.0
+H128,Hospital_117,General,Los Angeles,New York,54.0
+H122,Hospital_118,Academic,New York,nan,515.0
+H031,Hospital_119,Specialty,San Antonio,nan,653.0
+H153,Hospital_120,Academic,Dallas,Texas,731.0
+H108,Hospital_121,Academic,San Antonio,FL,878.0
+H156,Hospital_122,General,Phoenix,California,583.0
+H107,Hospital_123,General,New York,NY,454.0
+H001,Hospital_124,General,San Antonio,CA,887.0
+H065,Hospital_125,Specialty,San Antonio,nan,562.0
+H004,Hospital_126,Academic,San Diego,NY,694.0
+H186,Hospital_127,Academic,Chicago,CA,282.0
+H176,Hospital_128,General,San Diego,California,573.0
+H167,Hospital_129,Specialty,New York,Texas,395.0
+H062,Hospital_130,Specialty,New York,nan,
+H012,Hospital_131,General,Houston,CA,595.0
+H176,Hospital_132,General,San Diego,CA,994.0
+H190,Hospital_133,,Philadelphia,IL,127.0
+H018,Hospital_134,Pediatric,Chicago,TX,
+H098,Hospital_135,General,New York,  NY  ,862.0
+H014,Hospital_136,Specialty,Houston,TX,972.0
+H153,Hospital_137,Community,San Diego,New York,122.0
+H154,Hospital_138,,Chicago,ny,843.0
+H026,Hospital_139,Pediatric,San Diego,TX,
+H096,Hospital_140,Pediatric,San Antonio,TX,96.0
+H110,Hospital_141,General,Houston,nan,170.0
+H054,Hospital_142,Specialty,Chicago,California,263.0
+H175,Hospital_143,General,San Jose,FL,288.0
+H085,Hospital_144,General,Phoenix,FL,105.0
+H043,Hospital_145,General,Phoenix,NY,399.0
+H108,Hospital_146,Community,Chicago,Florida,156.0
+H146,Hospital_147,Specialty,San Diego,ny,880.0
+H041,Hospital_148,General,Houston,nan,97.0
+H063,Hospital_149,General,Phoenix,New York,622.0
+H200,Hospital_150,Pediatric,Houston,TX,386.0
+H130,Hospital_151,General,Phoenix,NY,75.0
+H088,Hospital_152,General,San Antonio,nan,853.0
+H104,Hospital_153,Specialty,San Diego,Texas,306.0
+H025,Hospital_154,Pediatric,San Antonio,FL,57.0
+H045,Hospital_155,General,Phoenix,NY,674.0
+H068,Hospital_156,Community,San Jose,IL,916.0
+H118,Hospital_157,Community,San Jose,  NY  ,302.0
+H047,Hospital_158,General,San Antonio,nan,741.0
+H045,Hospital_159,Community,San Jose,  NY  ,768.0
+H015,Hospital_160,General,Phoenix,ny,352.0
+H127,Hospital_161,Community,Chicago,NY,688.0
+H046,Hospital_162,Community,San Antonio,TX,105.0
+H182,Hospital_163,Specialty,Los Angeles,FL,775.0
+H172,Hospital_164,General,San Diego,NY,575.0
+H015,Hospital_165,Academic,San Jose,Illinois,523.0
+H048,Hospital_166,General,San Jose,TX,
+H134,Hospital_167,,New York,Texas,127.0
+H043,Hospital_168,General,Philadelphia,TX,265.0
+H027,Hospital_169,Specialty,San Antonio,TX,
+H188,Hospital_170,Community,Dallas,FL,414.0
+H115,Hospital_171,General,San Jose,ny,715.0
+H095,Hospital_172,Specialty,San Diego,ny,
+H157,Hospital_173,General,Los Angeles,nan,748.0
+H162,Hospital_174,Community,San Jose,nan,361.0
+H039,Hospital_175,General,Los Angeles,California,932.0
+H020,Hospital_176,Community,Phoenix,CA,56.0
+H087,Hospital_177,,Phoenix,FL,52.0
+H085,Hospital_178,Pediatric,Philadelphia,TX,672.0
+H094,Hospital_179,General,Chicago,NY,968.0
+H146,Hospital_180,General,Dallas,ny,799.0
+H135,Hospital_181,General,New York,IL,412.0
+H197,Hospital_182,Pediatric,Philadelphia,Florida,800.0
+H020,Hospital_183,Academic,Houston,NY,557.0
+H081,Hospital_184,General,New York,  NY  ,323.0
+H068,Hospital_185,Community,San Antonio,  NY  ,555.0
+H173,Hospital_186,Academic,San Diego,Florida,855.0
+H050,Hospital_187,Specialty,Houston,NY,788.0
+H039,Hospital_188,Specialty,Houston,New York,932.0
+H090,Hospital_189,General,Philadelphia,Illinois,64.0
+H085,Hospital_190,General,Chicago,ny,241.0
+H056,Hospital_191,Academic,Philadelphia,Florida,
+H050,Hospital_192,Pediatric,San Antonio,  NY  ,534.0
+H185,Hospital_193,Community,San Jose,NY,77.0
+H089,Hospital_194,General,San Jose,  NY  ,763.0
+H173,Hospital_195,General,Chicago,IL,88.0
+H111,Hospital_196,Community,San Antonio,nan,322.0
+H011,Hospital_197,Academic,Chicago,nan,280.0
+H200,Hospital_198,Academic,Los Angeles,California,135.0
+H168,Hospital_199,Community,San Jose,Florida,523.0
+H194,Hospital_200,Community,Houston,  NY  ,175.0
+H186,Hospital_201,General,Dallas,CA,861.0
+H170,Hospital_202,General,San Diego,nan,586.0
+H034,Hospital_203,Academic,San Antonio,NY,194.0
+H098,Hospital_204,Community,New York,NY,574.0
+H043,Hospital_205,General,Chicago,  NY  ,261.0
+H081,Hospital_206,General,San Diego,NY,74.0
+H012,Hospital_207,Community,New York,ny,629.0
+H076,Hospital_208,General,San Diego,FL,443.0
+H198,Hospital_209,General,Dallas,TX,116.0
+H054,Hospital_210,Specialty,New York,nan,282.0
+H157,Hospital_211,Community,Philadelphia,nan,158.0
+H092,Hospital_212,Community,Phoenix,CA,195.0
+H085,Hospital_213,General,Philadelphia,CA,160.0
+H192,Hospital_214,Community,San Jose,California,277.0
+H200,Hospital_215,General,Phoenix,FL,160.0
+H112,Hospital_216,General,Philadelphia,CA,519.0
+H144,Hospital_217,Community,Phoenix,FL,
+H031,Hospital_218,Community,Phoenix,TX,672.0
+H060,Hospital_219,Academic,Houston,FL,825.0
+H194,Hospital_220,Community,Chicago,TX,985.0
+H116,Hospital_221,,Chicago,CA,418.0
+H109,Hospital_222,General,Houston,nan,797.0
+H150,Hospital_223,General,San Diego,Illinois,644.0
+H012,Hospital_224,General,Los Angeles,New York,603.0
+H117,Hospital_225,General,San Diego,nan,474.0
+H101,Hospital_226,Pediatric,New York,TX,662.0
+H171,Hospital_227,General,New York,nan,567.0
+H032,Hospital_228,Academic,Phoenix,Illinois,741.0
+H193,Hospital_229,Community,Philadelphia,TX,331.0
+H017,Hospital_230,Community,Philadelphia,NY,369.0
+H038,Hospital_231,Specialty,Chicago,CA,787.0
+H120,Hospital_232,Specialty,San Antonio,Texas,492.0
+H136,Hospital_233,Specialty,San Diego,FL,
+H048,Hospital_234,General,San Jose,CA,926.0
+H024,Hospital_235,Community,Dallas,New York,790.0
+H179,Hospital_236,General,Philadelphia,nan,426.0
+H050,Hospital_237,General,Dallas,nan,338.0
+H119,Hospital_238,Community,Phoenix,Texas,486.0
+H124,Hospital_239,General,Dallas,ny,
+H084,Hospital_240,Pediatric,San Jose,CA,326.0
+H117,Hospital_241,Pediatric,Houston,NY,759.0
+H105,Hospital_242,Pediatric,San Jose,nan,631.0
+H187,Hospital_243,General,Dallas,New York,552.0
+H041,Hospital_244,General,San Jose,FL,673.0
+H144,Hospital_245,Pediatric,Los Angeles,CA,565.0
+H048,Hospital_246,Specialty,Phoenix,FL,399.0
+H080,Hospital_247,Pediatric,San Diego,Florida,892.0
+H135,Hospital_248,Pediatric,Houston,nan,495.0
+H060,Hospital_249,Academic,Philadelphia,  NY  ,879.0
+H064,Hospital_250,General,New York,NY,399.0
+H151,Hospital_251,,San Diego,New York,656.0
+H015,Hospital_252,Academic,New York,nan,713.0
+H092,Hospital_253,General,Phoenix,nan,872.0
+H200,Hospital_254,General,Houston,FL,186.0
+H200,Hospital_255,Specialty,Chicago,FL,808.0
+H015,Hospital_256,Pediatric,Philadelphia,Florida,948.0
+H043,Hospital_257,Community,Los Angeles,ny,292.0
+H054,Hospital_258,Specialty,Chicago,nan,592.0
+H187,Hospital_259,General,Phoenix,TX,89.0
+H177,Hospital_260,Community,San Diego,California,278.0
+H176,Hospital_261,Pediatric,Los Angeles,Texas,597.0
+H074,Hospital_262,General,San Jose,NY,969.0
+H032,Hospital_263,Specialty,Dallas,ny,272.0
+H167,Hospital_264,Academic,Los Angeles,IL,55.0
+H141,Hospital_265,Community,Phoenix,NY,371.0
+H123,Hospital_266,Community,San Antonio,FL,517.0
+H198,Hospital_267,Community,Dallas,  NY  ,781.0
+H131,Hospital_268,General,New York,California,124.0
+H002,Hospital_269,General,Philadelphia,CA,53.0
+H164,Hospital_270,Academic,New York,California,896.0
+H060,Hospital_271,Academic,Los Angeles,IL,695.0
+H133,Hospital_272,Academic,New York,CA,167.0
+H188,Hospital_273,Pediatric,Phoenix,FL,930.0
+H027,Hospital_274,Specialty,San Jose,TX,655.0
+H024,Hospital_275,Specialty,San Diego,Florida,553.0
+H022,Hospital_276,Community,Philadelphia,nan,996.0
+H111,Hospital_277,Community,New York,IL,623.0
+H055,Hospital_278,Community,New York,  NY  ,490.0
+H121,Hospital_279,Community,Los Angeles,NY,243.0
+H144,Hospital_280,,San Diego,CA,896.0
+H041,Hospital_281,General,Chicago,FL,764.0
+H127,Hospital_282,,New York,NY,441.0
+H053,Hospital_283,General,Phoenix,TX,75.0
+H098,Hospital_284,Specialty,San Antonio,FL,484.0
+H182,Hospital_285,General,Philadelphia,CA,222.0
+H170,Hospital_286,Specialty,New York,Illinois,349.0
+H019,Hospital_287,Specialty,Phoenix,New York,694.0
+H085,Hospital_288,General,Phoenix,NY,375.0
+H056,Hospital_289,Specialty,Philadelphia,IL,459.0
+H001,Hospital_290,General,Chicago,TX,167.0
+H155,Hospital_291,General,Phoenix,Florida,885.0
+H128,Hospital_292,,San Antonio,TX,836.0
+H053,Hospital_293,General,Phoenix,  NY  ,773.0
+H149,Hospital_294,General,Phoenix,nan,274.0
+H111,Hospital_295,Specialty,Phoenix,Illinois,581.0
+H086,Hospital_296,Community,San Jose,Florida,
+H002,Hospital_297,General,San Jose,CA,189.0
+H016,Hospital_298,Community,Chicago,FL,608.0
+H177,Hospital_299,General,New York,California,50.0

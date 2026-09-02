@@ -1,0 +1,1501 @@
+Patient_ID,Name,Gender,Age,City,State,Zip_Code,Chronic_Condition
+P0640,Patient_0,Male,65.0,Philadelphia,NY,57893,Arthritis
+P0026,Patient_1,Female,83.0,Philadelphia,California,54673,Arthritis
+P0276,Patient_2,Female,87.0,Los Angeles,nan,99462,Arthritis
+P0224,Patient_3,Female,45.0,Los Angeles,ny,55066,Hypertension
+P0737,Patient_4,Male,43.0,Philadelphia,FL,13373,None
+P0677,Patient_5,Male,42.0,Houston,ny,20335,None
+P0893,Patient_6,Male,29.0,Houston,Florida,33741,Hypertension
+P0087,Patient_7,Female,22.0,Chicago,TX,20692,Diabetes
+P0422,Patient_8,Female,65.0,Phoenix,FL,57295,Diabetes
+P0030,Patient_9,Female,54.0,Chicago,new york,55541,None
+P0219,Patient_10,Male,61.0,Phoenix,Florida,44057,Arthritis
+P0506,Patient_11,Other,32.0,Los Angeles,nan,76983,Arthritis
+P0027,Patient_12,Female,60.0,New York,FL,29583,Hypertension
+P0199,Patient_13,Male,65.0,Chicago,TX,32765,Asthma
+P0650,Patient_14,Male,87.0,Chicago,nan,69287,Hypertension
+P0545,,Male,63.0,Phoenix,NY,33906,Asthma
+P0221,Patient_16,Male,60.0,San Diego,Florida,95103,None
+P0590,Patient_17,Female,38.0,Los Angeles,nan,89675,None
+P0810,Patient_18,Male,40.0,Los Angeles,NY,56525,None
+P0007,Patient_19,Male,64.0,San Antonio,TX,48230,None
+P0806,Patient_20,Female,32.0,San Diego,new york,29520,Hypertension
+P0699,Patient_21,Male,,Phoenix,Texas,95238,Asthma
+P0341,Patient_22,Male,53.0,Los Angeles,FL,61934,None
+P0156,Patient_23,Male,68.0,San Diego,CA,35566,None
+P0958,Patient_24,Male,32.0,Philadelphia,TX,83193,Diabetes
+P0337,Patient_25,Female,85.0,San Diego,  NY  ,40134,Hypertension
+P0093,Patient_26,Male,38.0,Houston,CA,20345,Diabetes
+P0097,Patient_27,Female,,San Antonio,ny,51185,Arthritis
+P0848,Patient_28,Female,36.0,Philadelphia,nan,80744,Hypertension
+P0604,Patient_29,Male,51.0,New York,NY,43455,Hypertension
+P0808,Patient_30,Female,85.0,Chicago,nan,38018,Diabetes
+P0730,Patient_31,Male,,San Antonio,Texas,64219,Hypertension
+P0537,,Male,,New York,CA,55991,None
+P0974,Patient_33,Female,46.0,Chicago,Florida,83616,Hypertension
+P0379,Patient_34,Other,45.0,Houston,TX,97438,Arthritis
+P0553,Patient_35,Female,52.0,San Diego,TX,19486,Arthritis
+P0830,Patient_36,Male,25.0,Los Angeles,New York,48862,None
+P0619,Patient_37,Male,33.0,Philadelphia,CA,68870,Diabetes
+P0862,Patient_38,Female,53.0,Phoenix,new york,96694,None
+P0578,Patient_39,Male,47.0,Philadelphia,NY,53856,Asthma
+P0705,Patient_40,Male,35.0,Houston,CA,96055,None
+P0046,Patient_41,Female,19.0,New York,NY,41379,None
+P0228,Patient_42,Male,66.0,Phoenix,  NY  ,74729,Hypertension
+P0290,Patient_43,Female,21.0,Los Angeles,NY,38378,Diabetes
+P0080,Patient_44,Male,24.0,Houston,New York,64353,Hypertension
+P0233,Patient_45,Female,56.0,Phoenix,ny,59996,Asthma
+P0102,Patient_46,Male,30.0,Houston,nan,24031,Diabetes
+P0278,Patient_47,Female,48.0,San Diego,NY,90072,Diabetes
+P0636,Patient_48,Female,88.0,Houston,FL,75982,Asthma
+P0365,Patient_49,Male,80.0,Los Angeles,New York,46683,Diabetes
+P0371,Patient_50,Other,73.0,San Antonio,nan,27618,Diabetes
+P0210,Patient_51,Female,59.0,Chicago,NY,16587,Hypertension
+P0267,Patient_52,Female,78.0,Phoenix,nan,72790,Diabetes
+P0937,Patient_53,Female,59.0,San Diego,FL,41480,
+P0649,Patient_54,Female,73.0,Los Angeles,NY,30527,Asthma
+P0610,Patient_55,Female,,Houston,nan,33569,Asthma
+P0172,Patient_56,Male,85.0,San Diego,TX,21151,
+P0730,Patient_57,Male,24.0,Los Angeles,  NY  ,81094,Asthma
+P0164,Patient_58,Male,71.0,San Antonio,IL,69174,Asthma
+P0380,Patient_59,Male,18.0,San Diego,nan,54739,Hypertension
+P0990,Patient_60,Male,61.0,San Diego,TX,42954,None
+P0640,Patient_61,Male,62.0,Chicago,CA,45303,None
+P0557,Patient_62,Female,64.0,Philadelphia,IL,44700,None
+P0685,Patient_63,Male,30.0,Phoenix,FL,77568,Arthritis
+P0843,Patient_64,Male,39.0,Chicago,nan,76788,Diabetes
+P0776,Patient_65,Female,38.0,New York,FL,81045,Hypertension
+P0230,Patient_66,Male,26.0,Phoenix,new york,47842,Diabetes
+P0033,Patient_67,Female,43.0,Chicago,nan,23900,None
+P0316,Patient_68,Male,26.0,Houston,New York,90059,Arthritis
+P0268,Patient_69,Other,32.0,Phoenix,  NY  ,11881,None
+P0211,Patient_70,Female,27.0,Phoenix,TX,43037,Hypertension
+P0943,Patient_71,Male,59.0,Los Angeles,Texas,11630,None
+P0877,Patient_72,Male,89.0,Houston,NY,30789,Hypertension
+P0315,Patient_73,Female,41.0,New York,IL,98059,Diabetes
+P0656,Patient_74,Female,66.0,Philadelphia,CA,93494,Hypertension
+P0396,Patient_75,Female,43.0,San Diego,California,56151,Asthma
+P0915,Patient_76,Female,54.0,San Antonio,Illinois,58920,Asthma
+P0459,Patient_77,Male,85.0,Chicago,CA,77231,None
+P0265,,Male,67.0,Los Angeles,NY,90357,Diabetes
+P0247,Patient_79,Male,41.0,Chicago,ny,13262,Asthma
+P0562,Patient_80,Female,36.0,New York,nan,76981,Asthma
+P0263,Patient_81,Female,77.0,San Diego,NY,91972,Hypertension
+P0585,Patient_82,Male,56.0,New York,CA,85485,None
+P0898,Patient_83,Male,35.0,Phoenix,TX,64722,None
+P0400,Patient_84,Male,36.0,San Antonio,TX,99499,None
+P0220,Patient_85,Male,53.0,New York,NY,60818,None
+P0998,Patient_86,Female,72.0,Chicago,TX,39932,None
+P0510,Patient_87,Female,86.0,Houston,CA,16901,Hypertension
+P0091,Patient_88,Female,64.0,Houston,nan,18597,None
+P0048,Patient_89,Male,66.0,Phoenix,ny,73909,Hypertension
+P0110,Patient_90,Male,50.0,Philadelphia,CA,82391,Hypertension
+P0628,Patient_91,Female,,Chicago,California,94214,Diabetes
+P0793,Patient_92,Female,39.0,Chicago,CA,18263,
+P0423,Patient_93,Female,65.0,New York,FL,73293,None
+P0064,Patient_94,Female,54.0,San Antonio,new york,35805,Hypertension
+P0382,Patient_95,Female,32.0,Chicago,new york,21874,None
+P0997,Patient_96,Female,52.0,Los Angeles,Florida,96402,
+P0530,Patient_97,Male,,Philadelphia,TX,24079,Diabetes
+P0972,Patient_98,Male,49.0,New York,California,59850,Hypertension
+P0861,Patient_99,Male,28.0,Los Angeles,ny,82779,
+P0012,Patient_100,Male,27.0,Phoenix,ny,19018,Hypertension
+P0721,Patient_101,Female,74.0,Houston,NY,59500,Arthritis
+P0682,,Male,42.0,Phoenix,NY,22100,Diabetes
+P0537,Patient_103,Female,19.0,Houston,Texas,67021,Asthma
+P0267,Patient_104,Female,81.0,Phoenix,nan,29800,None
+P0641,Patient_105,Male,52.0,Chicago,  NY  ,73400,Arthritis
+P0112,Patient_106,Male,24.0,Los Angeles,CA,39437,None
+P0435,Patient_107,Female,35.0,Houston,New York,86537,None
+P0454,Patient_108,Male,84.0,New York,CA,56675,None
+P0954,,Male,59.0,Los Angeles,NY,29942,Arthritis
+P0876,Patient_110,Male,56.0,New York,nan,30862,Diabetes
+P0264,Patient_111,Male,58.0,Los Angeles,FL,21669,Asthma
+P0501,Patient_112,Female,41.0,Los Angeles,nan,63772,Diabetes
+P0179,Patient_113,Female,77.0,Phoenix,nan,25916,None
+P0913,Patient_114,Female,63.0,Houston,TX,20878,Hypertension
+P0871,Patient_115,Female,36.0,Houston,TX,12985,Asthma
+P0299,,Female,85.0,San Antonio,ny,83648,Hypertension
+P0639,Patient_117,Male,59.0,Los Angeles,TX,51235,None
+P0609,Patient_118,Female,49.0,Chicago,nan,28931,
+P0153,Patient_119,Female,56.0,Chicago,NY,10336,Hypertension
+P0763,Patient_120,Female,53.0,New York,nan,52933,None
+P0540,Patient_121,Female,53.0,New York,CA,94899,Hypertension
+P0779,Patient_122,Male,,Phoenix,nan,55536,Asthma
+P0531,,Male,25.0,Los Angeles,nan,79504,None
+P0001,Patient_124,Male,87.0,New York,FL,61148,Hypertension
+P0325,,Male,58.0,New York,FL,26279,
+P0020,Patient_126,Female,,Philadelphia,TX,78665,Diabetes
+P0930,Patient_127,Female,30.0,Los Angeles,Illinois,81386,Diabetes
+P0879,Patient_128,Male,66.0,San Diego,nan,96124,None
+P0832,Patient_129,Female,77.0,Phoenix,IL,87485,Diabetes
+P0308,Patient_130,Male,19.0,New York,FL,84055,None
+P0058,Patient_131,Male,77.0,Phoenix,FL,87273,None
+P0879,Patient_132,Male,22.0,Houston,Illinois,76670,Diabetes
+P0947,Patient_133,Male,61.0,Phoenix,TX,86474,Asthma
+P0086,Patient_134,Female,44.0,San Diego,Illinois,64028,Diabetes
+P0486,Patient_135,Male,49.0,Chicago,TX,81128,Hypertension
+P0070,Patient_136,Female,38.0,San Diego,NY,28108,Diabetes
+P0761,Patient_137,Female,25.0,Chicago,CA,62495,Hypertension
+P0766,Patient_138,Male,89.0,Phoenix,California,92806,Hypertension
+P0129,Patient_139,Other,67.0,Chicago,New York,86533,Hypertension
+P0476,Patient_140,Other,84.0,Houston,New York,66830,None
+P0550,Patient_141,Male,61.0,Los Angeles,TX,84640,None
+P0266,Patient_142,Female,75.0,Chicago,NY,62509,None
+P0873,Patient_143,Male,20.0,Chicago,CA,76406,Asthma
+P0424,Patient_144,Male,87.0,Phoenix,Florida,49519,None
+P0212,Patient_145,Male,19.0,Houston,nan,59649,Hypertension
+P0540,Patient_146,Female,61.0,San Antonio,Florida,44524,None
+P0730,Patient_147,Female,19.0,San Antonio,nan,43885,None
+P0202,Patient_148,Male,52.0,San Antonio,FL,54369,Hypertension
+P0312,Patient_149,Male,47.0,San Antonio,  NY  ,40676,Arthritis
+P0996,Patient_150,Female,25.0,Los Angeles,FL,74093,
+P0650,Patient_151,Male,39.0,San Diego,Florida,57764,None
+P0439,Patient_152,Male,,Phoenix,CA,60799,None
+P0518,Patient_153,Female,75.0,Phoenix,NY,89414,Hypertension
+P0122,Patient_154,Other,53.0,Philadelphia,Florida,82307,Hypertension
+P0225,Patient_155,Male,86.0,Houston,NY,92062,Diabetes
+P0339,Patient_156,Female,48.0,San Antonio,FL,41923,None
+P0589,Patient_157,Female,64.0,Los Angeles,ny,88388,Diabetes
+P0231,Patient_158,Male,72.0,Houston,Texas,57574,None
+P0221,Patient_159,Female,79.0,San Antonio,TX,53391,Diabetes
+P0071,Patient_160,Male,47.0,Los Angeles,NY,63664,Diabetes
+P0632,Patient_161,Female,72.0,Houston,CA,77384,Asthma
+P0229,Patient_162,Female,33.0,Phoenix,FL,41027,None
+P0906,Patient_163,Female,29.0,Phoenix,Illinois,45464,Diabetes
+P0860,Patient_164,Male,34.0,San Diego,nan,44485,Hypertension
+P0071,Patient_165,Female,33.0,New York,TX,29456,Asthma
+P0239,Patient_166,Male,29.0,San Diego,Florida,84795,Hypertension
+P0669,Patient_167,Male,25.0,Chicago,CA,45554,Diabetes
+P0215,,Male,,San Diego,CA,56922,None
+P0133,Patient_169,Female,33.0,San Antonio,ny,23409,Asthma
+P0936,Patient_170,Female,47.0,Philadelphia,Texas,79327,
+P0572,Patient_171,Male,40.0,Houston,CA,46639,None
+P0473,Patient_172,Female,22.0,Philadelphia,NY,73627,None
+P0785,Patient_173,Male,82.0,New York,FL,93424,Arthritis
+P0808,Patient_174,Female,47.0,Chicago,Florida,29692,Asthma
+P0191,Patient_175,Male,38.0,Houston,CA,99037,None
+P0097,Patient_176,Female,,Los Angeles,NY,88840,None
+P0432,Patient_177,Male,39.0,San Antonio,California,64200,None
+P0424,Patient_178,Female,89.0,Chicago,California,67415,Hypertension
+P0468,Patient_179,Male,49.0,Phoenix,FL,28074,Asthma
+P0730,Patient_180,Male,50.0,New York,CA,25549,None
+P0674,Patient_181,Male,33.0,Chicago,FL,39963,Diabetes
+P0985,,Female,55.0,San Antonio,nan,62265,Hypertension
+P0099,Patient_183,Female,31.0,San Diego,new york,26061,None
+P0403,Patient_184,Male,53.0,Chicago,nan,68226,Arthritis
+P0340,Patient_185,Female,40.0,San Diego,CA,38810,Hypertension
+P0862,Patient_186,Female,83.0,San Antonio,  NY  ,70006,Arthritis
+P0249,Patient_187,Female,19.0,Phoenix,California,32800,Diabetes
+P0191,Patient_188,Female,82.0,Houston,NY,85476,Hypertension
+P0449,Patient_189,Male,84.0,Los Angeles,New York,79460,None
+P0422,Patient_190,Male,69.0,Phoenix,California,67767,Hypertension
+P0279,Patient_191,Female,79.0,San Diego,IL,38054,Diabetes
+P0250,Patient_192,Female,40.0,San Diego,nan,85319,None
+P0924,Patient_193,Female,43.0,Los Angeles,FL,55397,Hypertension
+P0444,Patient_194,Male,85.0,Houston,New York,23233,Hypertension
+P0862,Patient_195,Male,72.0,Chicago,FL,35068,None
+P0551,Patient_196,Female,,Los Angeles,FL,75727,None
+P0051,Patient_197,Female,52.0,New York,Illinois,80453,Arthritis
+P1000,Patient_198,Female,39.0,New York,Illinois,35832,None
+P0837,Patient_199,Female,,San Antonio,nan,96242,Diabetes
+P0969,,Female,32.0,Phoenix,California,23682,None
+P0927,Patient_201,Male,77.0,San Diego,FL,33383,Asthma
+P0849,Patient_202,Male,29.0,Houston,  NY  ,68160,None
+P0167,Patient_203,Female,66.0,San Antonio,nan,33666,Asthma
+P0486,Patient_204,Female,59.0,Phoenix,ny,68817,Arthritis
+P0214,Patient_205,Male,55.0,Phoenix,NY,44642,Asthma
+P0402,Patient_206,Male,62.0,San Antonio,New York,51830,Asthma
+P0059,Patient_207,Female,52.0,Philadelphia,IL,20234,None
+P0379,Patient_208,Male,47.0,Phoenix,California,67616,Arthritis
+P0986,Patient_209,Male,47.0,Philadelphia,California,19221,Arthritis
+P0266,Patient_210,Female,23.0,New York,nan,21410,Asthma
+P0785,Patient_211,Female,84.0,New York,nan,90055,Asthma
+P0456,Patient_212,Female,24.0,Phoenix,CA,71413,None
+P0424,,Male,69.0,New York,new york,11051,None
+P0958,Patient_214,Female,31.0,Houston,Illinois,85301,Arthritis
+P0996,Patient_215,Male,32.0,Philadelphia,nan,86918,None
+P0556,Patient_216,Male,38.0,Philadelphia,TX,88116,None
+P0719,Patient_217,Female,52.0,Phoenix,FL,66563,Asthma
+P0155,Patient_218,Female,83.0,New York,  NY  ,54757,Arthritis
+P0297,Patient_219,Female,19.0,Los Angeles,Illinois,87475,None
+P0969,Patient_220,Female,52.0,San Diego,FL,61257,Arthritis
+P0580,Patient_221,Female,37.0,San Antonio,TX,10307,None
+P0543,Patient_222,Male,,San Antonio,NY,66889,Arthritis
+P0748,Patient_223,Male,42.0,Philadelphia,nan,78895,Asthma
+P0058,Patient_224,Male,,Phoenix,FL,45944,Hypertension
+P0585,Patient_225,Male,42.0,Phoenix,ny,48134,Hypertension
+P0503,Patient_226,Other,71.0,Houston,FL,37323,None
+P0853,Patient_227,Male,50.0,Chicago,FL,81762,Arthritis
+P0158,Patient_228,Female,53.0,San Diego,TX,97225,Asthma
+P0961,Patient_229,Female,31.0,Chicago,Florida,35954,None
+P0081,Patient_230,Female,82.0,Philadelphia,Texas,65021,Asthma
+P0186,Patient_231,Female,71.0,San Antonio,nan,99959,
+P0596,Patient_232,Female,69.0,Houston,NY,89866,None
+P0676,Patient_233,Female,20.0,Houston,New York,80427,None
+P0236,Patient_234,Male,58.0,Houston,ny,14992,
+P0120,Patient_235,Female,23.0,Philadelphia,FL,11961,Asthma
+P0891,,Male,42.0,Chicago,FL,22497,Asthma
+P0247,Patient_237,Male,30.0,San Antonio,nan,42551,Hypertension
+P0595,Patient_238,Female,25.0,Houston,Florida,86384,Asthma
+P0620,Patient_239,Male,38.0,San Antonio,TX,65755,Hypertension
+P0420,,Female,85.0,New York,nan,23255,Diabetes
+P0584,Patient_241,Female,42.0,Phoenix,  NY  ,14567,Hypertension
+P0523,Patient_242,Female,85.0,Phoenix,Illinois,58847,Diabetes
+P0935,Patient_243,Male,,San Antonio,California,58003,Asthma
+P0205,Patient_244,Male,77.0,Los Angeles,FL,30389,None
+P0717,Patient_245,Female,29.0,Los Angeles,Florida,54523,None
+P0239,Patient_246,Male,49.0,Philadelphia,FL,71576,Hypertension
+P0396,,Other,30.0,Philadelphia,New York,53919,Diabetes
+P0672,Patient_248,Other,48.0,Phoenix,California,92103,Hypertension
+P0300,Patient_249,Female,37.0,New York,Texas,13358,Asthma
+P0317,Patient_250,Male,35.0,San Diego,Illinois,98535,Hypertension
+P0752,Patient_251,Male,77.0,Chicago,California,86524,Asthma
+P0073,Patient_252,Female,80.0,Chicago,nan,15698,Hypertension
+P0459,Patient_253,Male,23.0,Philadelphia,California,76809,None
+P0999,Patient_254,Male,49.0,New York,TX,65805,Hypertension
+P0997,Patient_255,Female,60.0,Philadelphia,IL,41349,Hypertension
+P0074,Patient_256,Female,19.0,San Diego,Texas,86777,None
+P0214,Patient_257,Female,77.0,Chicago,nan,60248,Hypertension
+P0266,Patient_258,Female,40.0,San Antonio,FL,85033,Diabetes
+P0934,Patient_259,Male,,Philadelphia,TX,54041,Asthma
+P0881,,Female,22.0,Houston,NY,41954,Asthma
+P0880,Patient_261,Other,51.0,San Antonio,California,18002,None
+P0370,Patient_262,Male,27.0,San Diego,  NY  ,79783,Hypertension
+P0158,,Female,19.0,San Diego,Florida,97234,Hypertension
+P0834,Patient_264,Female,28.0,Philadelphia,new york,29738,Hypertension
+P0704,Patient_265,Female,67.0,Phoenix,new york,20703,Diabetes
+P0612,Patient_266,Female,48.0,Philadelphia,ny,59422,None
+P0988,Patient_267,Female,73.0,Phoenix,New York,93106,None
+P0654,Patient_268,Male,26.0,San Diego,CA,71899,Hypertension
+P0008,Patient_269,Male,38.0,New York,nan,22392,Asthma
+P0818,Patient_270,Female,45.0,San Diego,IL,54724,Hypertension
+P0300,Patient_271,Female,79.0,Chicago,Florida,42299,None
+P0664,Patient_272,Female,24.0,San Antonio,IL,25641,Diabetes
+P0939,Patient_273,Female,33.0,San Antonio,  NY  ,89534,Diabetes
+P0135,Patient_274,Female,21.0,Los Angeles,nan,16305,
+P0116,Patient_275,Female,21.0,Los Angeles,New York,28782,Asthma
+P0108,Patient_276,Female,57.0,San Diego,CA,88257,Asthma
+P0554,Patient_277,Female,34.0,Chicago,Texas,87963,Diabetes
+P0273,Patient_278,Female,69.0,Los Angeles,New York,30566,Hypertension
+P0605,Patient_279,Female,69.0,San Antonio,Florida,77766,Asthma
+P0718,Patient_280,Female,53.0,Philadelphia,CA,16511,Hypertension
+P0204,Patient_281,Male,55.0,New York,IL,36177,None
+P0635,Patient_282,Male,,New York,TX,14765,Diabetes
+P0264,Patient_283,Male,80.0,Chicago,ny,30354,Asthma
+P0489,Patient_284,Female,80.0,San Diego,Florida,33929,Arthritis
+P0906,Patient_285,Male,79.0,Los Angeles,  NY  ,38820,Hypertension
+P0847,Patient_286,Male,24.0,Philadelphia,TX,39523,Arthritis
+P0093,Patient_287,Female,44.0,New York,NY,81088,None
+P0424,Patient_288,Male,31.0,New York,FL,76163,Diabetes
+P0277,Patient_289,Female,88.0,Houston,FL,87525,None
+P0004,Patient_290,Male,22.0,San Diego,CA,23780,Asthma
+P0772,Patient_291,Male,,Houston,nan,16589,
+P0638,Patient_292,Female,19.0,San Antonio,nan,44812,Hypertension
+P0262,Patient_293,Male,79.0,New York,Florida,55939,Hypertension
+P0742,Patient_294,Male,38.0,Chicago,Florida,61493,None
+P0552,,Female,38.0,Phoenix,  NY  ,50953,None
+P0428,Patient_296,Female,27.0,Phoenix,FL,75785,None
+P0010,Patient_297,Male,,Philadelphia,ny,29309,None
+P0076,Patient_298,Female,56.0,New York,New York,64195,None
+P0884,Patient_299,Male,22.0,New York,nan,35901,Arthritis
+P0904,Patient_300,Male,82.0,San Antonio,FL,33576,Hypertension
+P0546,Patient_301,Female,30.0,New York,California,41508,Asthma
+P0835,Patient_302,Female,70.0,Chicago,  NY  ,84711,Diabetes
+P0583,Patient_303,Female,62.0,Houston,FL,35464,None
+P0149,Patient_304,Female,49.0,New York,NY,70281,Hypertension
+P0128,Patient_305,Other,53.0,New York,NY,26260,Diabetes
+P0309,Patient_306,Female,77.0,San Antonio,NY,45440,Diabetes
+P0899,Patient_307,Male,28.0,San Diego,TX,66683,Hypertension
+P0797,Patient_308,Female,80.0,Los Angeles,FL,51430,Asthma
+P0861,Patient_309,Male,38.0,San Diego,NY,11987,Asthma
+P0899,Patient_310,Male,69.0,San Antonio,Florida,35105,Arthritis
+P0211,Patient_311,Male,72.0,San Diego,new york,88484,Asthma
+P0250,Patient_312,Male,43.0,San Antonio,FL,23026,
+P0103,Patient_313,Other,85.0,Chicago,nan,78309,Hypertension
+P0781,Patient_314,Female,51.0,Philadelphia,FL,55927,Diabetes
+P0885,Patient_315,Female,69.0,New York,nan,85414,Asthma
+P0407,Patient_316,Male,69.0,San Antonio,nan,67535,Asthma
+P0621,Patient_317,Male,46.0,San Antonio,TX,52946,Diabetes
+P0155,Patient_318,Male,55.0,Los Angeles,Florida,66561,Hypertension
+P0930,Patient_319,Male,59.0,San Antonio,nan,20377,Diabetes
+P0865,Patient_320,Female,38.0,Phoenix,CA,63592,Asthma
+P0977,Patient_321,Female,59.0,Philadelphia,  NY  ,17347,Hypertension
+P0811,Patient_322,Female,30.0,New York,nan,43776,Arthritis
+P0882,Patient_323,Male,81.0,New York,Florida,13783,
+P0025,Patient_324,Female,34.0,Los Angeles,new york,65798,Hypertension
+P0737,Patient_325,Female,26.0,Chicago,California,14298,None
+P0333,Patient_326,Female,58.0,New York,IL,80204,Asthma
+P0931,,Female,18.0,Phoenix,TX,96207,Arthritis
+P0803,,Male,19.0,New York,FL,65161,Arthritis
+P0865,Patient_329,Male,77.0,Phoenix,IL,70652,Arthritis
+P0811,Patient_330,Male,65.0,Philadelphia,FL,44484,
+P0267,Patient_331,Female,46.0,Philadelphia,TX,30922,Hypertension
+P0788,Patient_332,Male,27.0,Houston,Florida,44028,Diabetes
+P0109,Patient_333,Male,75.0,Houston,Florida,30316,Diabetes
+P0873,Patient_334,Male,77.0,Phoenix,FL,86996,Hypertension
+P0859,Patient_335,Male,38.0,Chicago,CA,26968,Hypertension
+P0223,Patient_336,Female,45.0,New York,California,40266,Hypertension
+P0817,,Female,51.0,San Antonio,nan,34000,Diabetes
+P0461,Patient_338,Male,25.0,New York,New York,24011,None
+P0306,Patient_339,Male,76.0,Houston,  NY  ,12866,None
+P0796,Patient_340,Female,89.0,San Diego,TX,15898,None
+P0228,Patient_341,Male,66.0,San Antonio,Illinois,28395,Asthma
+P0024,Patient_342,Male,34.0,Phoenix,ny,49019,None
+P0194,Patient_343,Male,77.0,San Antonio,  NY  ,14006,None
+P0329,Patient_344,Male,62.0,San Diego,NY,44393,Hypertension
+P0865,Patient_345,Female,,New York,Florida,20956,Hypertension
+P0967,Patient_346,Female,49.0,New York,new york,60042,None
+P0280,Patient_347,Male,61.0,Chicago,CA,16078,Asthma
+P0642,Patient_348,Male,82.0,Los Angeles,California,39631,Asthma
+P0400,Patient_349,Female,25.0,San Antonio,nan,72901,Diabetes
+P0982,,Female,89.0,Houston,California,79497,Diabetes
+P0537,Patient_351,Female,60.0,San Diego,New York,51574,None
+P0940,Patient_352,Female,18.0,San Diego,TX,41417,Arthritis
+P0116,Patient_353,Male,,San Diego,nan,98020,Hypertension
+P0971,Patient_354,Male,41.0,Houston,FL,93639,Diabetes
+P0179,Patient_355,Female,41.0,Los Angeles,nan,75006,Asthma
+P0963,Patient_356,Male,34.0,New York,Illinois,49454,Asthma
+P0266,Patient_357,Female,22.0,Chicago,NY,11587,Hypertension
+P0109,Patient_358,Female,37.0,Chicago,FL,64710,None
+P0435,Patient_359,Female,38.0,Houston,  NY  ,96567,Diabetes
+P0729,Patient_360,Male,75.0,Chicago,Texas,85886,Hypertension
+P0314,Patient_361,Female,48.0,San Diego,  NY  ,28816,Arthritis
+P0607,Patient_362,Male,28.0,Philadelphia,CA,95824,Hypertension
+P0512,Patient_363,Female,69.0,Los Angeles,nan,39432,None
+P0386,Patient_364,Female,32.0,New York,new york,58617,None
+P0577,Patient_365,Male,24.0,Philadelphia,nan,82373,None
+P0255,Patient_366,Other,45.0,Los Angeles,NY,44217,Diabetes
+P0709,Patient_367,Female,68.0,Phoenix,NY,30884,Diabetes
+P0002,,Male,75.0,San Antonio,nan,15454,Hypertension
+P0926,Patient_369,Male,22.0,Houston,FL,84960,Asthma
+P0539,Patient_370,Male,22.0,San Diego,Florida,53618,None
+P0720,Patient_371,Male,25.0,Chicago,new york,93948,None
+P0742,Patient_372,Male,81.0,Phoenix,TX,72671,None
+P0671,,Female,27.0,Chicago,Florida,57111,None
+P0365,Patient_374,Male,55.0,Philadelphia,FL,49613,None
+P0070,Patient_375,Male,25.0,New York,TX,95678,Hypertension
+P0665,Patient_376,Female,42.0,New York,nan,69993,Hypertension
+P0331,Patient_377,Male,83.0,New York,FL,18848,Arthritis
+P0314,Patient_378,Female,67.0,San Diego,nan,88672,Diabetes
+P0849,Patient_379,Male,84.0,Chicago,Florida,76125,Diabetes
+P0720,Patient_380,Male,,Phoenix,Florida,96444,Asthma
+P0301,Patient_381,Female,53.0,New York,NY,71602,None
+P0310,Patient_382,Female,85.0,Phoenix,CA,82045,Diabetes
+P0409,,Female,58.0,Chicago,nan,52222,None
+P0403,Patient_384,Female,,San Diego,new york,59223,None
+P0296,Patient_385,Female,27.0,Philadelphia,New York,75333,Asthma
+P0128,Patient_386,Male,,San Diego,CA,62732,Diabetes
+P0421,Patient_387,Male,53.0,Phoenix,new york,59420,Diabetes
+P0941,,Female,29.0,San Diego,nan,85504,None
+P0678,Patient_389,Female,19.0,San Diego,nan,12462,None
+P0903,Patient_390,Other,30.0,Philadelphia,TX,19460,None
+P0616,,Male,70.0,Chicago,NY,19275,Asthma
+P0301,Patient_392,Male,49.0,Chicago,Florida,23269,Diabetes
+P0548,Patient_393,Female,33.0,Houston,FL,75942,Diabetes
+P0001,,Male,49.0,San Diego,nan,82920,None
+P0287,Patient_395,Female,49.0,Chicago,Texas,32553,Diabetes
+P0430,Patient_396,Female,28.0,Chicago,CA,34366,Hypertension
+P0580,Patient_397,Male,27.0,Los Angeles,TX,54036,Asthma
+P0655,Patient_398,Female,32.0,New York,nan,27369,Diabetes
+P0465,Patient_399,Female,34.0,Houston,FL,21795,Hypertension
+P0443,Patient_400,Male,57.0,San Antonio,FL,80021,Hypertension
+P0214,Patient_401,Female,35.0,Houston,new york,78154,Hypertension
+P0474,Patient_402,Female,72.0,Houston,Florida,40143,Diabetes
+P0902,,Female,42.0,San Antonio,IL,39425,None
+P0797,Patient_404,Male,76.0,Los Angeles,CA,98209,None
+P0170,Patient_405,Female,39.0,San Diego,TX,85139,Hypertension
+P0085,Patient_406,Male,47.0,Philadelphia,  NY  ,15368,None
+P0516,Patient_407,Male,61.0,Chicago,  NY  ,14621,Hypertension
+P0633,Patient_408,Female,49.0,New York,NY,68829,Asthma
+P0336,Patient_409,Male,68.0,Phoenix,  NY  ,70294,
+P0819,Patient_410,Male,63.0,San Diego,Texas,24719,None
+P0752,Patient_411,Female,38.0,San Antonio,NY,39227,
+P0673,Patient_412,Female,49.0,Philadelphia,  NY  ,17566,Diabetes
+P0225,Patient_413,Female,56.0,San Diego,nan,22306,Diabetes
+P0200,Patient_414,Female,29.0,San Antonio,Texas,63822,None
+P0025,Patient_415,Male,64.0,Chicago,FL,34042,Hypertension
+P0245,Patient_416,Male,35.0,Los Angeles,California,25086,
+P0476,Patient_417,Male,38.0,San Diego,FL,27387,None
+P0850,Patient_418,Female,30.0,San Antonio,ny,37042,None
+P0073,Patient_419,Female,38.0,Chicago,Illinois,99424,
+P0415,Patient_420,Female,25.0,Chicago,New York,61618,Hypertension
+P0630,Patient_421,Female,63.0,Los Angeles,FL,28323,None
+P0195,Patient_422,Male,24.0,Houston,CA,28019,Diabetes
+P0697,Patient_423,Female,40.0,San Diego,Florida,85426,Diabetes
+P0495,Patient_424,Male,39.0,San Diego,TX,50863,Arthritis
+P0244,Patient_425,Female,39.0,Houston,TX,20283,Diabetes
+P0657,Patient_426,Male,46.0,New York,ny,28279,Hypertension
+P0006,Patient_427,Female,30.0,New York,FL,56999,Arthritis
+P0751,Patient_428,Male,19.0,Houston,nan,72780,Hypertension
+P0771,Patient_429,Male,46.0,Philadelphia,Illinois,32908,Diabetes
+P0107,Patient_430,Male,69.0,Phoenix,NY,71584,Hypertension
+P0426,,Female,44.0,Chicago,CA,60225,Asthma
+P0176,Patient_432,Female,67.0,Phoenix,nan,47952,Asthma
+P0958,Patient_433,Male,40.0,Chicago,TX,47663,None
+P0518,Patient_434,Male,61.0,Houston,FL,71381,None
+P0051,Patient_435,Female,39.0,New York,nan,57929,
+P0250,Patient_436,Male,,Philadelphia,nan,19343,None
+P0849,Patient_437,Female,54.0,New York,TX,86173,
+P0457,Patient_438,Female,78.0,Phoenix,California,49791,Hypertension
+P0802,Patient_439,Male,73.0,New York,CA,39134,None
+P0668,Patient_440,Male,20.0,Houston,Florida,57101,Hypertension
+P0988,Patient_441,Other,80.0,Philadelphia,  NY  ,79443,None
+P0596,Patient_442,Male,36.0,Phoenix,new york,67530,Asthma
+P0951,Patient_443,Male,40.0,Philadelphia,CA,56799,None
+P0892,Patient_444,Female,46.0,San Diego,ny,14827,Hypertension
+P0613,Patient_445,Female,47.0,Chicago,FL,72653,Hypertension
+P0720,Patient_446,Other,56.0,New York,FL,23699,Hypertension
+P0505,Patient_447,Female,42.0,Philadelphia,TX,15313,None
+P0831,Patient_448,Male,25.0,Los Angeles,CA,23598,Asthma
+P0548,Patient_449,Male,,San Diego,nan,38807,None
+P0898,,Female,33.0,New York,NY,80423,Hypertension
+P0744,,Female,89.0,Chicago,IL,79390,
+P0475,Patient_452,Male,18.0,Philadelphia,nan,55226,Hypertension
+P0260,Patient_453,Female,22.0,Phoenix,California,69550,Arthritis
+P0248,Patient_454,Male,,Chicago,Texas,90072,None
+P0638,Patient_455,Female,82.0,Los Angeles,nan,13558,Hypertension
+P0766,Patient_456,Male,,Philadelphia,new york,85308,Arthritis
+P0522,Patient_457,Male,81.0,San Antonio,TX,60113,Hypertension
+P0627,Patient_458,Male,27.0,San Antonio,TX,62999,Arthritis
+P0275,Patient_459,Male,38.0,Houston,  NY  ,65878,None
+P0078,Patient_460,Male,63.0,New York,Illinois,46343,Hypertension
+P0286,Patient_461,Female,44.0,Phoenix,nan,68219,Hypertension
+P0272,Patient_462,Female,83.0,Houston,IL,45186,None
+P0320,Patient_463,Female,58.0,Philadelphia,ny,46966,None
+P0541,Patient_464,Other,30.0,San Antonio,NY,43769,Asthma
+P0139,Patient_465,Male,26.0,San Antonio,FL,63218,Asthma
+P0232,Patient_466,Male,53.0,San Antonio,NY,29229,Hypertension
+P0694,Patient_467,Female,,Philadelphia,FL,85209,Asthma
+P0707,Patient_468,Male,71.0,San Antonio,TX,37877,None
+P0065,Patient_469,Other,29.0,Chicago,FL,68001,Arthritis
+P0408,Patient_470,Male,31.0,San Diego,Texas,48084,Hypertension
+P0543,Patient_471,Other,51.0,Philadelphia,California,91780,Hypertension
+P0416,Patient_472,Male,70.0,Phoenix,new york,26806,Hypertension
+P0207,Patient_473,Female,37.0,San Diego,CA,98635,Diabetes
+P0421,Patient_474,Female,33.0,Houston,TX,47034,Diabetes
+P0905,Patient_475,Other,87.0,Phoenix,FL,50317,Hypertension
+P0585,Patient_476,Male,73.0,San Diego,IL,65468,Diabetes
+P0696,Patient_477,Female,75.0,Los Angeles,IL,29094,Diabetes
+P0857,Patient_478,Other,21.0,San Antonio,nan,67796,
+P0766,Patient_479,Female,21.0,Los Angeles,  NY  ,20589,Diabetes
+P0381,Patient_480,Female,37.0,New York,NY,67221,Diabetes
+P0006,Patient_481,Female,27.0,New York,CA,11657,Hypertension
+P0352,Patient_482,Male,41.0,San Diego,Florida,49531,Hypertension
+P0754,Patient_483,Female,43.0,Los Angeles,California,62227,Asthma
+P0854,Patient_484,Female,54.0,Philadelphia,Illinois,13164,Diabetes
+P0954,Patient_485,Female,71.0,Phoenix,TX,93973,None
+P0420,Patient_486,Male,38.0,Los Angeles,nan,51247,None
+P0748,,Male,,New York,nan,29601,None
+P0547,Patient_488,Female,63.0,Los Angeles,NY,60599,Asthma
+P0604,Patient_489,Female,21.0,Philadelphia,TX,81545,None
+P0221,Patient_490,Male,77.0,Los Angeles,FL,14552,Arthritis
+P0220,Patient_491,Female,74.0,Phoenix,  NY  ,19417,Diabetes
+P0436,Patient_492,Male,62.0,Houston,California,68579,Hypertension
+P0030,Patient_493,Male,37.0,Philadelphia,FL,78207,None
+P0337,Patient_494,Male,,New York,new york,82055,Hypertension
+P0680,Patient_495,Male,88.0,Phoenix,FL,88270,Diabetes
+P0405,Patient_496,Female,21.0,Los Angeles,FL,13722,None
+P0166,Patient_497,Male,31.0,Los Angeles,NY,80442,None
+P0468,Patient_498,Other,20.0,Houston,TX,50031,Diabetes
+P0128,Patient_499,Other,75.0,New York,  NY  ,89235,Asthma
+P0623,Patient_500,Female,72.0,New York,Florida,31438,Diabetes
+P0027,Patient_501,Female,21.0,Chicago,ny,68819,None
+P0395,Patient_502,Male,41.0,New York,nan,53856,Hypertension
+P0565,Patient_503,Female,51.0,Houston,California,43576,Hypertension
+P0028,Patient_504,Female,47.0,San Antonio,ny,51938,None
+P0643,Patient_505,Male,36.0,Chicago,California,59028,Asthma
+P0136,Patient_506,Female,48.0,Chicago,California,69807,Arthritis
+P0462,Patient_507,Female,77.0,Los Angeles,California,59877,Hypertension
+P0051,Patient_508,Female,77.0,Los Angeles,Texas,53461,Hypertension
+P0380,Patient_509,Female,36.0,New York,TX,50469,Arthritis
+P0212,Patient_510,Female,66.0,Chicago,New York,93136,Diabetes
+P0327,Patient_511,Male,80.0,San Diego,NY,30435,Hypertension
+P0762,Patient_512,Female,39.0,Los Angeles,Florida,94117,Hypertension
+P0380,Patient_513,Female,41.0,Houston,Texas,24191,Arthritis
+P0753,Patient_514,Male,47.0,San Diego,CA,94726,None
+P0832,Patient_515,Male,75.0,Los Angeles,Illinois,37386,None
+P0253,Patient_516,Male,,Philadelphia,CA,41721,Asthma
+P0082,Patient_517,Female,81.0,Philadelphia,IL,64786,Hypertension
+P0020,Patient_518,Other,36.0,Los Angeles,CA,23704,Hypertension
+P0540,Patient_519,Male,65.0,Chicago,NY,66635,None
+P1000,Patient_520,Female,62.0,San Antonio,nan,12123,Hypertension
+P0350,Patient_521,Male,72.0,San Antonio,CA,72993,None
+P0651,Patient_522,Other,72.0,Chicago,IL,90122,
+P0782,Patient_523,Female,35.0,Phoenix,  NY  ,35416,None
+P0652,Patient_524,Female,80.0,San Antonio,FL,11814,None
+P0755,Patient_525,Male,64.0,Philadelphia,nan,88537,None
+P0950,Patient_526,Male,74.0,Houston,NY,60258,
+P0200,Patient_527,Male,62.0,Chicago,Illinois,26508,Diabetes
+P0021,Patient_528,Male,50.0,New York,Texas,95166,Hypertension
+P0153,Patient_529,Female,34.0,Philadelphia,FL,88916,Hypertension
+P0127,Patient_530,Female,87.0,Houston,TX,45699,Diabetes
+P0670,Patient_531,Other,21.0,Houston,nan,56335,Asthma
+P0564,Patient_532,Other,37.0,Chicago,NY,56806,Hypertension
+P0218,Patient_533,Female,,Houston,  NY  ,87853,Arthritis
+P0700,Patient_534,Female,32.0,Chicago,nan,73768,Arthritis
+P0767,Patient_535,Female,87.0,San Antonio,IL,45739,Diabetes
+P0168,Patient_536,Female,64.0,Los Angeles,NY,44785,None
+P0608,Patient_537,Male,26.0,Philadelphia,TX,41980,Diabetes
+P0748,Patient_538,Male,33.0,Phoenix,TX,99335,Hypertension
+P0115,Patient_539,Male,86.0,Los Angeles,California,95016,Asthma
+P0820,Patient_540,Female,78.0,Philadelphia,  NY  ,11609,None
+P0965,Patient_541,Female,27.0,Chicago,FL,76253,Diabetes
+P0109,Patient_542,Male,67.0,Philadelphia,new york,95481,Hypertension
+P0026,Patient_543,Female,20.0,San Antonio,IL,38141,Arthritis
+P0312,Patient_544,Female,87.0,Chicago,Illinois,40009,Hypertension
+P0678,Patient_545,Male,68.0,Los Angeles,California,16782,Arthritis
+P0959,Patient_546,Male,36.0,New York,  NY  ,35933,None
+P0397,Patient_547,Female,59.0,New York,  NY  ,87154,None
+P0716,Patient_548,Female,52.0,San Diego,TX,18307,Diabetes
+P0076,Patient_549,Female,63.0,San Diego,Florida,85874,Hypertension
+P0691,Patient_550,Female,43.0,Philadelphia,CA,48346,Hypertension
+P0628,Patient_551,Female,86.0,New York,FL,60772,Hypertension
+P0102,Patient_552,Female,81.0,Chicago,CA,82084,Hypertension
+P0773,Patient_553,Female,54.0,Houston,CA,50149,Hypertension
+P0851,Patient_554,Female,66.0,Chicago,NY,96700,None
+P0601,Patient_555,Male,38.0,Houston,NY,37526,
+P0122,Patient_556,Male,81.0,Los Angeles,new york,95712,Diabetes
+P0984,Patient_557,Male,22.0,Phoenix,California,78477,Hypertension
+P0783,Patient_558,Female,87.0,Houston,nan,15695,Hypertension
+P0348,Patient_559,Female,21.0,New York,IL,49169,Hypertension
+P0429,Patient_560,Female,56.0,Chicago,  NY  ,57947,Arthritis
+P0371,Patient_561,Male,52.0,Los Angeles,new york,57224,Arthritis
+P0506,Patient_562,Male,18.0,New York,new york,55865,None
+P0342,,Male,41.0,Los Angeles,CA,35553,None
+P0850,Patient_564,Male,74.0,Phoenix,TX,70410,Asthma
+P0823,Patient_565,Female,87.0,San Antonio,California,34816,Arthritis
+P0106,Patient_566,Male,58.0,Chicago,new york,65026,Hypertension
+P0961,Patient_567,Male,71.0,Philadelphia,New York,60705,Asthma
+P0636,Patient_568,Female,63.0,Chicago,NY,71922,Asthma
+P0829,Patient_569,Male,77.0,San Diego,ny,83914,Diabetes
+P0708,Patient_570,Female,77.0,Phoenix,Florida,11881,Hypertension
+P0436,Patient_571,Female,74.0,Chicago,new york,49567,Hypertension
+P0734,Patient_572,Male,48.0,San Diego,TX,57365,None
+P0966,Patient_573,Female,,Philadelphia,Texas,89211,Hypertension
+P0271,Patient_574,Female,53.0,Houston,nan,80122,Hypertension
+P0809,Patient_575,Female,47.0,Los Angeles,nan,35006,Hypertension
+P0539,Patient_576,Male,41.0,Philadelphia,Florida,51198,Arthritis
+P0484,Patient_577,Female,,New York,NY,32831,Diabetes
+P0436,Patient_578,Female,24.0,Phoenix,Texas,26459,None
+P0732,Patient_579,Male,52.0,Houston,IL,42443,None
+P0269,Patient_580,Male,72.0,New York,NY,52316,Asthma
+P0852,Patient_581,Other,31.0,New York,TX,74486,Arthritis
+P0831,Patient_582,Female,27.0,Phoenix,nan,15877,Diabetes
+P0087,Patient_583,Male,33.0,Houston,TX,49553,Hypertension
+P0882,Patient_584,Female,71.0,San Antonio,NY,14922,None
+P0244,Patient_585,Male,87.0,New York,NY,14686,Diabetes
+P0465,Patient_586,Male,61.0,New York,California,42766,Hypertension
+P0611,Patient_587,Male,62.0,Houston,ny,89943,Asthma
+P0379,Patient_588,Male,73.0,Chicago,FL,42006,Hypertension
+P0029,Patient_589,Male,74.0,New York,Florida,41422,None
+P0851,Patient_590,Male,38.0,Los Angeles,ny,22205,Diabetes
+P0182,Patient_591,Female,85.0,Houston,nan,96590,None
+P0213,Patient_592,Male,67.0,New York,California,33527,Asthma
+P0798,Patient_593,Male,50.0,Phoenix,New York,28443,None
+P0341,Patient_594,Female,24.0,Philadelphia,IL,26524,Hypertension
+P0881,Patient_595,Male,87.0,Los Angeles,IL,38202,Asthma
+P0702,Patient_596,Female,32.0,San Diego,FL,75552,None
+P0277,Patient_597,Male,49.0,San Diego,nan,56142,Asthma
+P0011,Patient_598,Male,37.0,Philadelphia,Florida,71692,Hypertension
+P0949,Patient_599,Male,32.0,San Diego,nan,92384,Asthma
+P0086,,Male,65.0,Philadelphia,California,30855,None
+P0721,Patient_601,Male,88.0,New York,Florida,93747,Hypertension
+P0489,Patient_602,Male,38.0,Los Angeles,nan,70372,
+P0759,Patient_603,Male,59.0,Los Angeles,Florida,35095,Hypertension
+P0691,Patient_604,Male,43.0,Chicago,New York,48724,Asthma
+P0646,Patient_605,Male,31.0,Philadelphia,TX,59241,None
+P0491,Patient_606,Male,74.0,Los Angeles,Texas,62003,Arthritis
+P0793,Patient_607,Male,54.0,Chicago,ny,78379,None
+P0094,Patient_608,Female,75.0,Houston,nan,25972,None
+P0222,Patient_609,Female,38.0,Chicago,ny,32927,Hypertension
+P0692,Patient_610,Male,86.0,Phoenix,ny,76630,Diabetes
+P0307,Patient_611,Female,20.0,San Antonio,nan,62347,Diabetes
+P0582,Patient_612,Female,54.0,New York,TX,98860,None
+P0474,Patient_613,Male,66.0,Houston,NY,96210,None
+P0531,Patient_614,Female,36.0,San Antonio,Texas,79518,Hypertension
+P0426,Patient_615,Female,29.0,San Antonio,FL,55283,Diabetes
+P0746,Patient_616,Male,78.0,Houston,NY,91326,Diabetes
+P0331,Patient_617,Male,58.0,Phoenix,nan,22205,None
+P0703,Patient_618,Female,50.0,Chicago,TX,99874,
+P0271,Patient_619,Female,67.0,New York,Texas,22748,Hypertension
+P0252,Patient_620,Male,85.0,Chicago,TX,31097,Asthma
+P0121,Patient_621,Male,88.0,Los Angeles,FL,13092,None
+P0193,Patient_622,Male,50.0,Chicago,  NY  ,63311,Arthritis
+P0120,Patient_623,Female,41.0,San Diego,  NY  ,32692,Arthritis
+P0536,,Female,78.0,Houston,TX,33862,Diabetes
+P0763,Patient_625,Male,78.0,New York,Illinois,89507,Asthma
+P0186,Patient_626,Male,45.0,Chicago,NY,90152,None
+P0217,Patient_627,Female,75.0,New York,FL,80469,None
+P0485,Patient_628,Male,60.0,New York,Illinois,14926,Hypertension
+P0725,Patient_629,Male,,Los Angeles,ny,13969,Diabetes
+P0977,Patient_630,Female,56.0,Los Angeles,NY,45733,Diabetes
+P0525,Patient_631,Female,66.0,Houston,CA,79855,Hypertension
+P0283,Patient_632,Female,34.0,Phoenix,Texas,51743,None
+P0101,Patient_633,Female,87.0,San Diego,New York,49876,Diabetes
+P0195,Patient_634,Male,87.0,San Antonio,California,30323,Asthma
+P0228,Patient_635,Male,82.0,New York,Texas,26428,Hypertension
+P0180,Patient_636,Female,22.0,Phoenix,Texas,44578,Diabetes
+P0015,Patient_637,Male,19.0,San Antonio,  NY  ,96486,Asthma
+P0535,Patient_638,Male,39.0,San Antonio,California,74140,Hypertension
+P0275,Patient_639,Male,74.0,San Diego,IL,93829,Hypertension
+P0975,Patient_640,Male,,Houston,nan,16364,None
+P0554,Patient_641,Male,33.0,San Antonio,nan,45349,Asthma
+P0698,Patient_642,Male,68.0,San Diego,Texas,10691,Diabetes
+P0127,Patient_643,Male,56.0,San Antonio,California,76467,None
+P0869,Patient_644,Male,57.0,New York,CA,55896,Arthritis
+P0491,Patient_645,Female,55.0,New York,New York,67062,None
+P0873,Patient_646,Female,77.0,Philadelphia,New York,89762,Diabetes
+P0575,,Female,76.0,Phoenix,FL,23861,Diabetes
+P0470,Patient_648,Female,27.0,Chicago,  NY  ,98302,Diabetes
+P0441,Patient_649,Female,81.0,San Diego,  NY  ,73928,Diabetes
+P0185,Patient_650,Male,80.0,Los Angeles,nan,93231,Hypertension
+P0052,Patient_651,Female,66.0,San Diego,ny,51347,None
+P0942,Patient_652,Female,81.0,Chicago,New York,13121,Asthma
+P0478,Patient_653,Female,49.0,Phoenix,NY,93793,Hypertension
+P0823,Patient_654,Male,24.0,Los Angeles,Texas,38164,Asthma
+P0401,Patient_655,Male,38.0,Chicago,FL,35491,Diabetes
+P0075,Patient_656,Male,37.0,Philadelphia,CA,69222,Arthritis
+P0630,Patient_657,Male,43.0,Los Angeles,TX,33165,Asthma
+P0054,Patient_658,Female,85.0,New York,IL,13748,None
+P0150,Patient_659,Female,32.0,Chicago,Illinois,36553,None
+P0563,Patient_660,Male,31.0,San Diego,nan,70380,Hypertension
+P0304,Patient_661,Other,44.0,Los Angeles,Illinois,54331,Asthma
+P0994,Patient_662,Female,57.0,Philadelphia,Texas,49560,None
+P0119,Patient_663,Male,75.0,San Diego,ny,63865,
+P0765,Patient_664,Male,45.0,San Antonio,NY,56686,Asthma
+P0607,Patient_665,Male,43.0,Los Angeles,NY,85910,None
+P0791,,Male,80.0,Los Angeles,FL,14675,Diabetes
+P0226,Patient_667,Male,83.0,Philadelphia,Illinois,76706,None
+P0523,Patient_668,Male,42.0,San Antonio,TX,87986,Diabetes
+P0451,Patient_669,Male,20.0,Chicago,NY,86216,Asthma
+P0443,Patient_670,Male,89.0,Houston,TX,20068,None
+P0861,Patient_671,Female,61.0,Chicago,nan,64460,Hypertension
+P0991,Patient_672,Male,59.0,San Antonio,Texas,56418,Asthma
+P0306,Patient_673,Female,23.0,Phoenix,Illinois,36206,
+P0622,Patient_674,Male,56.0,San Diego,Illinois,10287,None
+P0610,Patient_675,Other,69.0,Philadelphia,nan,32337,None
+P0741,Patient_676,Male,40.0,Chicago,IL,30666,None
+P0948,Patient_677,Male,,Los Angeles,Florida,11161,Asthma
+P0208,Patient_678,Other,60.0,Philadelphia,new york,48751,None
+P0212,Patient_679,Female,36.0,New York,NY,92063,Hypertension
+P0661,Patient_680,Female,86.0,San Antonio,TX,99389,Hypertension
+P0158,Patient_681,Male,68.0,San Diego,New York,24758,None
+P0174,Patient_682,Male,28.0,Chicago,nan,75780,Hypertension
+P0076,Patient_683,Female,29.0,Philadelphia,  NY  ,13178,Diabetes
+P0003,Patient_684,Female,25.0,San Diego,nan,41831,Diabetes
+P0451,Patient_685,Female,41.0,Chicago,CA,12176,Diabetes
+P0594,Patient_686,Female,58.0,Philadelphia,CA,43654,None
+P0292,Patient_687,Male,53.0,Los Angeles,nan,36627,Asthma
+P0232,Patient_688,Female,89.0,New York,CA,62550,None
+P0707,Patient_689,Male,72.0,New York,CA,54910,Hypertension
+P0703,Patient_690,Male,26.0,Phoenix,New York,68251,Hypertension
+P0455,Patient_691,Male,64.0,Philadelphia,FL,45422,Hypertension
+P0688,Patient_692,Female,32.0,Chicago,  NY  ,21984,None
+P0924,Patient_693,Male,65.0,New York,Texas,99312,Arthritis
+P0788,Patient_694,Male,59.0,San Antonio,Texas,71386,None
+P0626,Patient_695,Female,77.0,New York,Florida,93291,Arthritis
+P0662,Patient_696,Male,87.0,Houston,Florida,17135,Asthma
+P0934,Patient_697,Female,,Houston,TX,10320,Arthritis
+P0426,Patient_698,Male,19.0,New York,CA,31684,None
+P0545,Patient_699,Female,24.0,Philadelphia,Illinois,65913,None
+P0648,Patient_700,Female,20.0,Phoenix,CA,98774,Diabetes
+P0909,Patient_701,Male,20.0,New York,TX,31889,Asthma
+P0827,Patient_702,Male,44.0,Los Angeles,California,58899,Arthritis
+P0072,Patient_703,Male,57.0,San Diego,nan,20770,None
+P0166,Patient_704,Male,50.0,Chicago,California,49321,Hypertension
+P0308,Patient_705,Other,18.0,Phoenix,CA,95962,None
+P0749,Patient_706,Male,25.0,Los Angeles,FL,51777,None
+P0570,Patient_707,Female,49.0,Phoenix,FL,56250,Hypertension
+P0289,Patient_708,Male,,Los Angeles,New York,83034,None
+P0125,Patient_709,Female,21.0,Chicago,TX,50130,Diabetes
+P0689,Patient_710,Female,87.0,Chicago,Florida,91931,Diabetes
+P0700,Patient_711,Female,36.0,Houston,nan,59346,
+P0943,Patient_712,Male,,Philadelphia,FL,12537,Diabetes
+P0501,Patient_713,Male,,Los Angeles,CA,94762,
+P0494,Patient_714,Male,29.0,San Diego,new york,25216,Diabetes
+P0081,Patient_715,Female,28.0,Houston,nan,94149,Hypertension
+P0040,Patient_716,Female,63.0,Los Angeles,Illinois,13009,Diabetes
+P0433,Patient_717,Other,33.0,Houston,new york,99904,Hypertension
+P0323,Patient_718,Male,18.0,Chicago,new york,39327,Diabetes
+P0251,Patient_719,Female,80.0,Phoenix,Florida,24209,Arthritis
+P0092,Patient_720,Female,38.0,San Antonio,CA,58443,Diabetes
+P0962,Patient_721,Male,47.0,Houston,CA,25029,None
+P0836,,Male,30.0,Los Angeles,ny,77613,None
+P0576,,Female,51.0,Los Angeles,  NY  ,89443,Diabetes
+P0951,,Female,21.0,San Antonio,California,66997,None
+P1000,,Female,45.0,Philadelphia,Florida,72559,Diabetes
+P0673,Patient_726,Male,,San Diego,CA,74892,Hypertension
+P0270,Patient_727,Female,44.0,Chicago,CA,80409,Diabetes
+P0041,Patient_728,Male,86.0,Los Angeles,  NY  ,18635,Hypertension
+P0757,Patient_729,Male,42.0,New York,TX,43065,Asthma
+P0471,Patient_730,Male,20.0,Phoenix,ny,43783,None
+P0652,Patient_731,Female,85.0,Houston,TX,44152,Hypertension
+P0917,Patient_732,Female,42.0,Philadelphia,Florida,68741,None
+P0182,Patient_733,Female,37.0,San Diego,NY,61502,Diabetes
+P0586,Patient_734,Male,51.0,San Antonio,NY,39092,None
+P0635,,Female,43.0,Phoenix,NY,27653,Hypertension
+P0492,Patient_736,Male,22.0,Chicago,TX,50469,Diabetes
+P0092,Patient_737,Female,78.0,Philadelphia,nan,96483,Diabetes
+P0348,Patient_738,Male,26.0,San Diego,NY,69754,Diabetes
+P0334,Patient_739,Male,67.0,Houston,nan,39978,Asthma
+P0671,Patient_740,Male,23.0,Houston,New York,97592,None
+P0858,Patient_741,Male,77.0,San Antonio,Illinois,53169,Diabetes
+P0330,Patient_742,Female,61.0,New York,TX,58287,None
+P0694,Patient_743,Female,28.0,San Antonio,FL,64745,Arthritis
+P0289,Patient_744,Male,83.0,Chicago,TX,15543,None
+P0946,Patient_745,Female,64.0,Philadelphia,TX,66392,Hypertension
+P0814,Patient_746,Male,20.0,Philadelphia,Illinois,31067,Asthma
+P0551,Patient_747,Female,47.0,Los Angeles,IL,61033,
+P0455,Patient_748,Female,38.0,New York,TX,55256,Arthritis
+P0315,Patient_749,Female,45.0,New York,New York,79345,Hypertension
+P0324,Patient_750,Male,79.0,Philadelphia,New York,32191,Diabetes
+P0971,Patient_751,Female,50.0,Philadelphia,Illinois,96803,Hypertension
+P0405,Patient_752,Female,52.0,Phoenix,TX,82742,Asthma
+P0515,Patient_753,Male,69.0,San Diego,TX,96593,None
+P0989,Patient_754,Male,51.0,Phoenix,FL,38992,Diabetes
+P0658,Patient_755,Female,58.0,Phoenix,nan,91531,Asthma
+P0543,Patient_756,Female,68.0,New York,FL,58803,Asthma
+P0414,Patient_757,Female,64.0,Los Angeles,IL,73477,Asthma
+P0188,Patient_758,Female,75.0,Houston,IL,23210,Arthritis
+P0362,Patient_759,Female,74.0,Phoenix,CA,93329,None
+P0757,Patient_760,Male,40.0,Los Angeles,  NY  ,36270,Hypertension
+P0626,Patient_761,Male,65.0,San Antonio,Illinois,72008,None
+P0760,Patient_762,Male,39.0,Chicago,CA,15197,Diabetes
+P0204,Patient_763,Female,34.0,Phoenix,nan,17452,Diabetes
+P0550,Patient_764,Male,86.0,San Antonio,NY,51486,Hypertension
+P0928,Patient_765,Female,28.0,Houston,NY,24859,Diabetes
+P0439,Patient_766,Female,32.0,Chicago,nan,37236,Hypertension
+P0699,Patient_767,Female,52.0,Chicago,FL,41899,Diabetes
+P0122,Patient_768,Male,50.0,Houston,CA,42083,None
+P0974,Patient_769,Female,33.0,Phoenix,IL,77708,Diabetes
+P0609,Patient_770,Male,51.0,New York,FL,26663,None
+P0240,Patient_771,Female,83.0,Houston,TX,29053,Diabetes
+P0159,Patient_772,Male,57.0,Houston,NY,21085,None
+P0551,Patient_773,Male,45.0,Houston,Illinois,40564,None
+P0553,Patient_774,Female,64.0,Chicago,nan,99745,Diabetes
+P0094,Patient_775,Male,56.0,San Diego,ny,69095,None
+P0993,Patient_776,Male,87.0,Los Angeles,nan,79517,Asthma
+P0913,Patient_777,Female,37.0,San Antonio,nan,31153,None
+P0462,Patient_778,Female,18.0,New York,TX,15247,Asthma
+P0118,Patient_779,Female,89.0,Phoenix,FL,20553,Arthritis
+P0833,Patient_780,Female,80.0,Phoenix,CA,30811,None
+P0499,Patient_781,Female,84.0,San Antonio,  NY  ,16135,Hypertension
+P0717,Patient_782,Male,21.0,Los Angeles,Florida,15573,Diabetes
+P0509,Patient_783,Male,75.0,Houston,nan,89267,None
+P0274,Patient_784,Male,42.0,San Diego,FL,17189,Hypertension
+P0835,Patient_785,Female,64.0,New York,TX,90077,Asthma
+P0981,Patient_786,Female,55.0,Phoenix,ny,53646,Diabetes
+P0244,Patient_787,Male,32.0,San Antonio,NY,86623,Asthma
+P0552,Patient_788,Male,80.0,Philadelphia,California,63687,None
+P0384,Patient_789,Female,38.0,San Diego,NY,78312,Hypertension
+P0922,Patient_790,Male,74.0,San Antonio,Texas,37564,Hypertension
+P0509,Patient_791,Female,70.0,San Diego,CA,38835,Arthritis
+P0880,Patient_792,Female,63.0,Phoenix,IL,71587,None
+P0865,Patient_793,Female,31.0,Houston,CA,17697,Hypertension
+P0277,Patient_794,Male,34.0,Philadelphia,Texas,90165,Hypertension
+P0791,Patient_795,Female,56.0,Los Angeles,TX,83922,None
+P0415,Patient_796,Female,26.0,New York,NY,27046,Arthritis
+P0935,Patient_797,Female,23.0,Los Angeles,NY,67823,Diabetes
+P0508,,Female,40.0,Los Angeles,  NY  ,83580,Diabetes
+P0821,Patient_799,Female,76.0,San Antonio,nan,63370,Asthma
+P0283,,Female,63.0,San Diego,New York,19615,Hypertension
+P0299,Patient_801,Male,55.0,New York,Florida,15060,
+P0587,Patient_802,Female,31.0,New York,nan,86436,None
+P0999,Patient_803,Female,89.0,Phoenix,IL,70519,Diabetes
+P0490,Patient_804,Male,79.0,Phoenix,new york,81117,None
+P0149,Patient_805,Female,52.0,New York,nan,71158,Hypertension
+P0539,Patient_806,Female,36.0,Philadelphia,NY,44782,None
+P0346,Patient_807,Female,47.0,Chicago,TX,95709,None
+P0552,Patient_808,Male,42.0,Phoenix,nan,88533,Diabetes
+P0544,Patient_809,Male,57.0,Chicago,FL,68255,Asthma
+P0456,Patient_810,Other,31.0,San Antonio,California,82684,
+P0322,Patient_811,Female,43.0,Philadelphia,  NY  ,66918,None
+P0189,,Male,39.0,New York,CA,94284,None
+P0698,Patient_813,Female,65.0,Philadelphia,TX,89558,
+P0572,Patient_814,Female,68.0,Phoenix,CA,95549,Hypertension
+P0234,Patient_815,Female,20.0,Los Angeles,nan,91422,Hypertension
+P0776,Patient_816,Female,59.0,San Antonio,nan,35256,None
+P0044,Patient_817,Male,36.0,New York,nan,40005,Hypertension
+P0745,Patient_818,Male,45.0,Houston,California,16638,Hypertension
+P0706,Patient_819,Male,,San Antonio,FL,47419,Hypertension
+P0812,Patient_820,Female,88.0,San Diego,nan,43377,Diabetes
+P0387,Patient_821,Male,80.0,Chicago,nan,53116,None
+P0664,Patient_822,Male,36.0,Philadelphia,California,46634,Diabetes
+P0821,Patient_823,Male,64.0,New York,New York,92291,Arthritis
+P0981,Patient_824,Female,31.0,San Antonio,NY,33382,Diabetes
+P0496,Patient_825,Female,55.0,Philadelphia,Texas,66063,Hypertension
+P0038,Patient_826,Male,70.0,New York,FL,32394,Arthritis
+P0503,Patient_827,Male,78.0,Phoenix,Illinois,77789,None
+P0591,Patient_828,Female,53.0,San Antonio,  NY  ,10864,None
+P0870,Patient_829,Male,57.0,Phoenix,ny,50222,Hypertension
+P0875,Patient_830,Male,47.0,San Antonio,CA,23666,Diabetes
+P0441,,Male,26.0,Phoenix,CA,30955,None
+P0526,Patient_832,Male,81.0,San Diego,New York,91845,Hypertension
+P0457,Patient_833,Male,50.0,Philadelphia,FL,79590,Diabetes
+P0723,Patient_834,Female,69.0,Houston,TX,76471,None
+P0410,Patient_835,Male,31.0,San Antonio,Florida,98314,None
+P0655,,Female,70.0,San Diego,CA,53298,None
+P0155,Patient_837,Male,76.0,San Antonio,CA,73108,None
+P0470,Patient_838,Female,58.0,Phoenix,TX,58924,None
+P0970,Patient_839,Female,85.0,New York,nan,26709,Diabetes
+P0339,Patient_840,Male,85.0,San Antonio,NY,19726,Diabetes
+P0693,Patient_841,Female,25.0,San Diego,Illinois,70824,Asthma
+P0650,Patient_842,Male,19.0,Phoenix,CA,50542,Asthma
+P0852,Patient_843,Other,58.0,Los Angeles,nan,30245,Asthma
+P0853,Patient_844,Male,72.0,Phoenix,Illinois,44753,Hypertension
+P0860,Patient_845,Male,33.0,Philadelphia,CA,89788,Hypertension
+P0381,Patient_846,Male,79.0,Houston,FL,31316,Asthma
+P0317,Patient_847,Other,65.0,Los Angeles,ny,94698,
+P0719,Patient_848,Female,47.0,Philadelphia,nan,25960,Hypertension
+P0760,Patient_849,Female,29.0,Philadelphia,California,40791,Asthma
+P0873,Patient_850,Male,52.0,Philadelphia,TX,35216,None
+P0036,Patient_851,Female,28.0,New York,Florida,42467,Diabetes
+P0069,Patient_852,Male,81.0,Philadelphia,Illinois,74427,Asthma
+P0632,Patient_853,Female,,New York,new york,72047,None
+P0921,Patient_854,Male,38.0,Philadelphia,FL,83290,Hypertension
+P0998,Patient_855,Male,86.0,Chicago,CA,57014,Diabetes
+P0747,Patient_856,Male,65.0,San Diego,CA,14078,Hypertension
+P0434,Patient_857,Male,37.0,Los Angeles,FL,88389,Hypertension
+P0099,Patient_858,Female,84.0,Chicago,CA,60519,None
+P0634,Patient_859,Male,61.0,Philadelphia,CA,14042,Diabetes
+P0873,Patient_860,Female,50.0,Los Angeles,Illinois,59052,Arthritis
+P0444,Patient_861,Male,78.0,Los Angeles,New York,24389,
+P0695,Patient_862,Female,26.0,San Antonio,FL,78111,Hypertension
+P0904,Patient_863,Male,85.0,Houston,new york,60733,Asthma
+P0046,Patient_864,Male,52.0,Chicago,NY,44754,Hypertension
+P0797,Patient_865,Female,82.0,Houston,ny,28624,Asthma
+P0294,Patient_866,Male,25.0,Los Angeles,FL,95886,
+P0375,Patient_867,Male,62.0,New York,Florida,36681,Hypertension
+P0146,Patient_868,Female,64.0,Los Angeles,NY,99524,Arthritis
+P0532,Patient_869,Female,57.0,Houston,NY,91006,Hypertension
+P0566,Patient_870,Male,71.0,Chicago,nan,34704,None
+P0793,Patient_871,Male,63.0,Philadelphia,NY,17493,Arthritis
+P0170,Patient_872,Female,64.0,San Antonio,nan,79639,Hypertension
+P0079,Patient_873,Male,32.0,San Antonio,new york,64383,Diabetes
+P0871,,Male,36.0,San Antonio,Florida,12994,Asthma
+P0620,Patient_875,Male,43.0,Philadelphia,CA,79280,None
+P0241,Patient_876,Female,69.0,San Antonio,nan,57234,Hypertension
+P0913,Patient_877,Female,39.0,Chicago,Florida,57291,None
+P0144,Patient_878,Male,38.0,Philadelphia,California,15594,Hypertension
+P0462,Patient_879,Male,68.0,San Antonio,NY,17371,None
+P0254,Patient_880,Male,55.0,Philadelphia,Florida,57315,Diabetes
+P0256,Patient_881,Female,37.0,Houston,FL,93564,None
+P0010,Patient_882,Male,46.0,San Diego,NY,89526,Asthma
+P0805,Patient_883,Male,68.0,San Diego,NY,26626,Hypertension
+P0902,Patient_884,Female,21.0,Chicago,Illinois,96005,Hypertension
+P0678,Patient_885,Male,72.0,Phoenix,  NY  ,17130,Hypertension
+P0158,Patient_886,Female,88.0,New York,FL,16828,None
+P0442,Patient_887,Male,45.0,San Antonio,TX,67514,Hypertension
+P0346,Patient_888,Male,21.0,New York,nan,62664,Diabetes
+P0588,Patient_889,Male,39.0,Philadelphia,nan,27883,Asthma
+P0639,Patient_890,Female,62.0,New York,nan,53059,Asthma
+P0425,Patient_891,Female,84.0,Chicago,ny,94078,Asthma
+P0251,Patient_892,Female,83.0,Chicago,nan,52932,Arthritis
+P0846,Patient_893,Male,51.0,Los Angeles,  NY  ,71269,Hypertension
+P0200,Patient_894,Female,72.0,San Diego,Texas,85986,None
+P0385,Patient_895,Male,18.0,San Antonio,TX,95959,Hypertension
+P0484,Patient_896,Male,89.0,Los Angeles,NY,12035,Diabetes
+P0238,Patient_897,Female,55.0,New York,nan,50745,None
+P0572,Patient_898,Male,23.0,Phoenix,NY,27241,Arthritis
+P0575,Patient_899,Male,42.0,Los Angeles,FL,62975,Hypertension
+P0993,Patient_900,Male,34.0,Los Angeles,IL,33154,Arthritis
+P0296,Patient_901,Male,78.0,Chicago,IL,35625,Hypertension
+P0978,Patient_902,Male,29.0,Phoenix,New York,54950,Hypertension
+P0659,Patient_903,Female,,Philadelphia,California,66396,
+P0275,Patient_904,Male,44.0,New York,Illinois,23331,Diabetes
+P0566,Patient_905,Female,25.0,Los Angeles,CA,73927,Hypertension
+P0686,Patient_906,Female,82.0,Phoenix,TX,96226,
+P0745,Patient_907,Male,74.0,San Diego,  NY  ,94719,None
+P0050,Patient_908,Male,57.0,San Antonio,TX,73014,Asthma
+P0607,Patient_909,Male,31.0,Phoenix,nan,49346,Asthma
+P0497,Patient_910,Female,52.0,San Diego,TX,80411,Asthma
+P0905,Patient_911,Male,65.0,New York,Texas,64478,None
+P0287,Patient_912,Female,73.0,Phoenix,California,22254,None
+P0799,Patient_913,Male,66.0,San Diego,TX,65734,Diabetes
+P0608,Patient_914,Female,30.0,Phoenix,NY,38621,Hypertension
+P0353,Patient_915,Male,78.0,Phoenix,  NY  ,86441,Asthma
+P0637,Patient_916,Male,66.0,San Antonio,California,56121,None
+P0621,Patient_917,Female,63.0,San Diego,FL,91418,Arthritis
+P0678,Patient_918,Female,79.0,San Diego,TX,70197,Arthritis
+P0721,Patient_919,Male,25.0,Los Angeles,CA,94577,None
+P0660,Patient_920,Female,60.0,New York,CA,52431,Diabetes
+P0839,Patient_921,Female,37.0,San Antonio,new york,14837,Hypertension
+P0629,Patient_922,Female,,Phoenix,nan,93163,Hypertension
+P0904,Patient_923,Female,66.0,Phoenix,TX,81232,Hypertension
+P0647,Patient_924,Male,81.0,Los Angeles,NY,58994,Diabetes
+P0309,Patient_925,Male,79.0,New York,NY,89079,Diabetes
+P0441,Patient_926,Male,71.0,Chicago,nan,22615,Arthritis
+P0580,Patient_927,Female,26.0,San Antonio,new york,11466,None
+P0733,Patient_928,Female,54.0,Los Angeles,Illinois,40771,Asthma
+P0091,,Male,66.0,New York,NY,93886,Asthma
+P0296,Patient_930,Male,58.0,San Antonio,nan,75911,Hypertension
+P0748,Patient_931,Female,34.0,Phoenix,nan,30746,None
+P0176,Patient_932,Other,38.0,New York,Texas,98422,None
+P0133,Patient_933,Female,68.0,New York,NY,70739,Asthma
+P0540,Patient_934,Male,76.0,Philadelphia,  NY  ,83369,Hypertension
+P0972,Patient_935,Male,56.0,New York,California,11893,
+P0531,Patient_936,Male,72.0,Chicago,TX,40573,Diabetes
+P0914,,Female,58.0,New York,  NY  ,50874,Asthma
+P0831,Patient_938,Male,56.0,Chicago,NY,87362,None
+P0257,Patient_939,Female,30.0,Phoenix,Texas,97460,None
+P0825,Patient_940,Male,81.0,Chicago,TX,43367,Asthma
+P0482,Patient_941,Female,28.0,San Antonio,  NY  ,31199,None
+P0807,Patient_942,Female,36.0,Phoenix,NY,84328,None
+P0747,Patient_943,Female,,Phoenix,nan,67724,Hypertension
+P0339,Patient_944,Male,63.0,Chicago,TX,96133,Hypertension
+P0116,Patient_945,Male,62.0,San Diego,IL,46405,None
+P0963,Patient_946,Male,18.0,Los Angeles,TX,25989,Hypertension
+P0141,Patient_947,Female,57.0,Houston,NY,38931,None
+P0967,Patient_948,Female,36.0,San Diego,CA,19290,None
+P0861,Patient_949,Female,89.0,New York,CA,48367,Arthritis
+P0725,Patient_950,Female,89.0,Philadelphia,Illinois,89878,
+P0980,Patient_951,Female,78.0,Houston,FL,89481,None
+P0968,Patient_952,Male,29.0,New York,  NY  ,86298,Arthritis
+P0805,Patient_953,Female,78.0,San Diego,nan,40133,Hypertension
+P0366,Patient_954,Male,50.0,San Diego,CA,37052,Diabetes
+P0791,Patient_955,Male,,New York,nan,95489,Hypertension
+P0014,Patient_956,Female,86.0,Phoenix,nan,50475,Arthritis
+P0537,Patient_957,Male,25.0,New York,ny,92666,Diabetes
+P0455,Patient_958,Male,,Philadelphia,CA,67656,Diabetes
+P0673,Patient_959,Female,63.0,San Diego,TX,14633,Diabetes
+P0673,Patient_960,Male,47.0,New York,FL,27304,None
+P0585,Patient_961,Female,64.0,Chicago,TX,56546,None
+P0823,Patient_962,Male,66.0,Houston,nan,17008,None
+P0941,Patient_963,Male,64.0,Chicago,Florida,58291,Asthma
+P0109,Patient_964,Male,35.0,Philadelphia,new york,37405,None
+P0234,Patient_965,Male,83.0,New York,New York,46386,None
+P0026,Patient_966,Female,85.0,San Antonio,FL,30827,Asthma
+P0885,Patient_967,Male,,Philadelphia,ny,43040,Asthma
+P0562,Patient_968,Female,53.0,Phoenix,IL,70354,Diabetes
+P0916,Patient_969,Male,36.0,Chicago,CA,88543,None
+P0222,Patient_970,Female,45.0,Chicago,CA,28157,Hypertension
+P0064,Patient_971,Female,57.0,Los Angeles,NY,45315,Hypertension
+P0824,Patient_972,Female,32.0,New York,Florida,45932,Arthritis
+P0910,Patient_973,Male,58.0,Phoenix,New York,31164,Hypertension
+P0303,Patient_974,Male,56.0,San Antonio,IL,24414,Hypertension
+P0409,Patient_975,Male,19.0,Chicago,TX,24327,Arthritis
+P0140,Patient_976,Female,80.0,Chicago,IL,10946,Diabetes
+P0947,Patient_977,Male,46.0,Phoenix,Texas,24693,None
+P0305,Patient_978,Female,83.0,Philadelphia,NY,37241,Asthma
+P0493,Patient_979,Female,68.0,Philadelphia,IL,25540,Arthritis
+P0098,Patient_980,Male,27.0,New York,NY,82255,Arthritis
+P0888,Patient_981,Female,31.0,San Diego,TX,74757,Asthma
+P0136,Patient_982,Male,68.0,Los Angeles,ny,51203,
+P0454,Patient_983,Male,56.0,Chicago,IL,35081,Arthritis
+P0671,,Female,45.0,San Diego,nan,71861,None
+P0744,Patient_985,Female,20.0,San Diego,Texas,21350,None
+P0946,Patient_986,Female,87.0,Los Angeles,TX,65512,None
+P0420,Patient_987,Male,44.0,San Diego,IL,66809,Diabetes
+P0743,Patient_988,Male,19.0,San Diego,NY,52832,Hypertension
+P0155,Patient_989,Female,55.0,Philadelphia,nan,38369,None
+P0415,Patient_990,Female,20.0,Philadelphia,ny,41728,Hypertension
+P0100,Patient_991,Female,33.0,Houston,nan,27576,Diabetes
+P0490,Patient_992,Male,57.0,San Antonio,Florida,39001,Asthma
+P0409,Patient_993,Female,19.0,New York,IL,93384,Diabetes
+P0952,Patient_994,Male,58.0,San Diego,FL,10390,Hypertension
+P0033,,Male,29.0,Houston,TX,97535,None
+P0371,Patient_996,Female,52.0,San Antonio,Texas,55436,Asthma
+P0444,Patient_997,Male,82.0,Houston,NY,21569,Hypertension
+P0951,Patient_998,Female,,Houston,FL,23029,None
+P0856,Patient_999,Male,62.0,New York,FL,32490,None
+P0100,Patient_1000,Male,79.0,New York,nan,55875,Hypertension
+P0686,Patient_1001,Female,66.0,Phoenix,TX,15867,
+P0545,Patient_1002,Female,42.0,Los Angeles,NY,90820,None
+P0978,Patient_1003,Female,40.0,Los Angeles,CA,19121,None
+P0359,Patient_1004,Female,41.0,Phoenix,FL,11539,Arthritis
+P0399,Patient_1005,Female,55.0,Phoenix,new york,27027,
+P0190,Patient_1006,Female,45.0,Philadelphia,  NY  ,84229,Arthritis
+P0123,Patient_1007,Female,38.0,San Antonio,Illinois,18921,Hypertension
+P0849,Patient_1008,Male,71.0,Houston,Texas,60435,Arthritis
+P0455,Patient_1009,Female,35.0,San Diego,TX,20310,Hypertension
+P0663,Patient_1010,Male,53.0,Phoenix,CA,73965,None
+P0642,Patient_1011,Other,62.0,Chicago,Florida,79922,Arthritis
+P0598,Patient_1012,Female,70.0,Los Angeles,  NY  ,92839,Diabetes
+P0022,Patient_1013,Male,47.0,Phoenix,Florida,22242,Asthma
+P0787,Patient_1014,Female,77.0,Chicago,NY,18947,Hypertension
+P0244,Patient_1015,Female,49.0,Chicago,nan,81466,Hypertension
+P0126,Patient_1016,Male,84.0,Chicago,TX,71816,Arthritis
+P0565,Patient_1017,Female,84.0,Philadelphia,California,58785,
+P0069,Patient_1018,Female,45.0,Philadelphia,FL,10507,
+P0766,Patient_1019,Male,61.0,San Diego,FL,76972,
+P0208,Patient_1020,Female,58.0,San Diego,New York,37151,Arthritis
+P0216,,Male,80.0,Chicago,IL,21618,None
+P0870,Patient_1022,Female,40.0,San Antonio,  NY  ,84286,Arthritis
+P0329,Patient_1023,Other,,Philadelphia,nan,26122,Asthma
+P0148,Patient_1024,Female,,Houston,Illinois,17354,None
+P0901,Patient_1025,Male,74.0,Chicago,CA,40979,Hypertension
+P0003,Patient_1026,Female,50.0,Houston,Illinois,96436,Diabetes
+P0859,Patient_1027,Female,,Houston,CA,89376,Hypertension
+P0145,Patient_1028,Male,56.0,Chicago,New York,62774,Diabetes
+P0130,Patient_1029,Female,51.0,Los Angeles,nan,15037,None
+P0251,Patient_1030,Male,73.0,San Antonio,FL,38633,Hypertension
+P0175,Patient_1031,Female,45.0,Chicago,TX,34495,None
+P0662,Patient_1032,Male,54.0,San Diego,CA,74550,None
+P0026,Patient_1033,Male,24.0,Chicago,CA,91384,Hypertension
+P0015,,Male,85.0,Philadelphia,nan,46483,Arthritis
+P0790,Patient_1035,Female,54.0,Chicago,New York,83373,Diabetes
+P0238,,Male,73.0,Los Angeles,CA,44069,Asthma
+P0324,Patient_1037,Female,82.0,Philadelphia,TX,17370,Diabetes
+P0175,Patient_1038,Male,82.0,San Diego,TX,81947,None
+P0053,Patient_1039,Male,64.0,New York,TX,49133,None
+P0742,Patient_1040,Female,37.0,New York,ny,10692,Hypertension
+P0527,Patient_1041,Female,36.0,Houston,New York,38926,Hypertension
+P0746,Patient_1042,Male,46.0,San Antonio,  NY  ,83984,None
+P0477,Patient_1043,Female,77.0,Houston,nan,53390,Hypertension
+P0779,Patient_1044,Female,35.0,Los Angeles,New York,59593,None
+P0514,Patient_1045,Female,52.0,Phoenix,IL,85609,Asthma
+P0110,Patient_1046,Male,60.0,San Diego,IL,15209,Hypertension
+P0504,Patient_1047,Male,28.0,San Antonio,Illinois,16533,None
+P0946,Patient_1048,Female,66.0,San Diego,nan,96597,Asthma
+P0044,Patient_1049,Male,55.0,New York,  NY  ,17211,None
+P0784,Patient_1050,Female,81.0,Houston,new york,19927,None
+P0867,Patient_1051,Female,86.0,San Diego,TX,87463,Diabetes
+P0522,Patient_1052,Female,25.0,New York,  NY  ,34594,Diabetes
+P0459,Patient_1053,Female,51.0,Los Angeles,Florida,84852,None
+P0965,Patient_1054,Other,65.0,Los Angeles,FL,87713,None
+P0061,Patient_1055,Male,73.0,Phoenix,nan,86382,Diabetes
+P0479,Patient_1056,Female,82.0,San Diego,NY,17933,None
+P0402,Patient_1057,Male,48.0,Phoenix,nan,50696,Asthma
+P0687,,Male,,Philadelphia,  NY  ,75449,Hypertension
+P0491,Patient_1059,Female,67.0,San Antonio,TX,77616,None
+P0910,Patient_1060,Female,86.0,San Diego,California,16089,Diabetes
+P0074,Patient_1061,Other,47.0,Los Angeles,IL,66548,None
+P0081,Patient_1062,Female,76.0,Houston,California,36123,Hypertension
+P0609,Patient_1063,Male,84.0,New York,nan,17797,Arthritis
+P0066,Patient_1064,Male,62.0,Chicago,nan,60013,Hypertension
+P0276,Patient_1065,Female,21.0,Phoenix,nan,18346,Asthma
+P0634,Patient_1066,Male,43.0,Chicago,NY,95414,Arthritis
+P0549,Patient_1067,Male,44.0,San Diego,nan,43672,Diabetes
+P0326,Patient_1068,Male,63.0,Houston,IL,27653,Asthma
+P0995,Patient_1069,Male,81.0,Phoenix,New York,59556,Asthma
+P0531,Patient_1070,Male,68.0,Chicago,New York,36140,Diabetes
+P0454,Patient_1071,Male,67.0,San Antonio,New York,11184,None
+P0606,Patient_1072,Male,23.0,Houston,NY,44493,Hypertension
+P0100,Patient_1073,Male,76.0,New York,TX,54148,Asthma
+P0702,Patient_1074,Other,32.0,San Antonio,nan,34846,Asthma
+P0853,,Male,47.0,Houston,California,32195,Asthma
+P0651,Patient_1076,Male,59.0,Philadelphia,TX,15606,Diabetes
+P0769,Patient_1077,Female,54.0,Phoenix,nan,13956,Hypertension
+P0721,Patient_1078,Male,59.0,Los Angeles,  NY  ,26555,Asthma
+P0216,Patient_1079,Female,52.0,New York,nan,28690,None
+P0452,Patient_1080,Female,23.0,San Diego,TX,68502,None
+P0229,Patient_1081,Male,85.0,San Antonio,Texas,58849,Asthma
+P0339,Patient_1082,Male,35.0,San Antonio,CA,36347,Diabetes
+P0454,Patient_1083,Female,,Chicago,Texas,59056,Hypertension
+P0416,Patient_1084,Female,76.0,Phoenix,NY,73851,Diabetes
+P0096,Patient_1085,Male,64.0,San Diego,IL,91502,Diabetes
+P0427,Patient_1086,Female,34.0,Los Angeles,  NY  ,91418,Hypertension
+P0666,Patient_1087,Male,39.0,Houston,nan,80211,Hypertension
+P0375,Patient_1088,Other,85.0,Los Angeles,CA,51850,Hypertension
+P0153,Patient_1089,Male,86.0,Phoenix,New York,88545,Diabetes
+P0923,Patient_1090,Female,54.0,Phoenix,FL,37843,Diabetes
+P0068,Patient_1091,Female,66.0,Philadelphia,ny,72320,Diabetes
+P0832,Patient_1092,Female,30.0,Philadelphia,IL,39793,Diabetes
+P0094,Patient_1093,Female,51.0,Los Angeles,nan,49516,Hypertension
+P0097,Patient_1094,Male,70.0,Houston,IL,27857,Asthma
+P0739,Patient_1095,Male,68.0,Los Angeles,NY,29627,Diabetes
+P0812,Patient_1096,Male,20.0,Phoenix,Texas,71822,Hypertension
+P0557,Patient_1097,Male,59.0,Phoenix,FL,94101,Hypertension
+P0587,,Female,49.0,Chicago,Illinois,62248,Diabetes
+P0562,Patient_1099,Male,68.0,Philadelphia,NY,65798,Diabetes
+P0330,Patient_1100,Male,63.0,San Diego,TX,54116,Asthma
+P0123,Patient_1101,Other,38.0,San Diego,TX,85318,
+P0354,Patient_1102,Female,61.0,San Diego,ny,97902,Hypertension
+P0666,Patient_1103,Female,28.0,Chicago,CA,38557,Diabetes
+P0751,Patient_1104,Other,85.0,New York,California,81334,None
+P0869,Patient_1105,Male,18.0,San Diego,Illinois,85163,Hypertension
+P0722,Patient_1106,Male,80.0,Phoenix,nan,88002,Hypertension
+P0969,Patient_1107,Female,41.0,Chicago,FL,52614,None
+P0601,Patient_1108,Female,30.0,Los Angeles,CA,22720,None
+P0352,Patient_1109,Male,28.0,Philadelphia,  NY  ,67608,Hypertension
+P0578,Patient_1110,Female,68.0,Philadelphia,nan,82095,Asthma
+P0213,Patient_1111,Male,34.0,Houston,nan,94694,Hypertension
+P0657,Patient_1112,Male,41.0,Los Angeles,nan,97593,Diabetes
+P0225,Patient_1113,Female,36.0,Houston,IL,45892,Asthma
+P0109,Patient_1114,Female,54.0,Chicago,CA,87242,Diabetes
+P0846,Patient_1115,Female,25.0,San Antonio,Illinois,87606,Hypertension
+P0368,Patient_1116,Male,45.0,San Diego,California,10924,None
+P0763,Patient_1117,Female,22.0,New York,CA,61322,None
+P0575,Patient_1118,Male,34.0,Los Angeles,Florida,36478,Hypertension
+P0808,Patient_1119,Male,53.0,Los Angeles,NY,81042,Arthritis
+P0846,Patient_1120,Female,36.0,Los Angeles,NY,56418,Asthma
+P0975,Patient_1121,Female,81.0,Houston,California,72217,None
+P0819,Patient_1122,Female,28.0,Chicago,California,90846,
+P0614,Patient_1123,Female,71.0,Los Angeles,nan,83762,Diabetes
+P0643,Patient_1124,Female,62.0,San Antonio,New York,21781,Diabetes
+P0027,Patient_1125,Female,64.0,Los Angeles,New York,15515,Hypertension
+P0930,Patient_1126,Male,29.0,Philadelphia,New York,46133,Hypertension
+P0830,Patient_1127,Male,38.0,San Diego,NY,92508,None
+P0268,,Male,28.0,New York,NY,86946,Arthritis
+P0181,Patient_1129,Male,22.0,San Diego,FL,95058,Hypertension
+P0703,Patient_1130,Female,73.0,Philadelphia,California,19095,Asthma
+P0309,Patient_1131,Female,37.0,Philadelphia,IL,98583,Diabetes
+P0340,Patient_1132,Male,58.0,New York,nan,30470,None
+P0007,Patient_1133,Male,63.0,San Antonio,FL,53129,None
+P0870,Patient_1134,Female,29.0,Chicago,NY,18531,None
+P0567,Patient_1135,Male,87.0,Philadelphia,New York,47038,None
+P0401,Patient_1136,Female,34.0,Chicago,nan,97939,Diabetes
+P0142,Patient_1137,Female,36.0,Philadelphia,TX,52674,Diabetes
+P0634,Patient_1138,Female,,Phoenix,Illinois,92476,Asthma
+P0031,Patient_1139,Female,65.0,New York,nan,39831,None
+P0747,Patient_1140,Female,69.0,Philadelphia,nan,67174,Diabetes
+P0216,,Male,87.0,Phoenix,nan,21279,
+P0420,Patient_1142,Female,72.0,San Diego,Texas,48220,None
+P0341,Patient_1143,Female,50.0,Houston,CA,70610,Diabetes
+P0371,Patient_1144,Male,79.0,Phoenix,nan,62719,Hypertension
+P0722,Patient_1145,Female,40.0,Los Angeles,TX,63051,
+P0777,Patient_1146,Female,32.0,Philadelphia,NY,82013,Hypertension
+P0568,Patient_1147,Female,44.0,Phoenix,FL,66652,Diabetes
+P0085,Patient_1148,Female,81.0,Chicago,Texas,75524,
+P0053,Patient_1149,Female,68.0,Houston,nan,92936,Arthritis
+P0158,Patient_1150,Female,70.0,San Antonio,FL,16470,None
+P0618,Patient_1151,Female,68.0,Philadelphia,CA,77598,Hypertension
+P0674,Patient_1152,Female,64.0,Los Angeles,nan,51798,Diabetes
+P0273,Patient_1153,Female,21.0,San Antonio,Illinois,63473,None
+P0662,Patient_1154,Female,24.0,Phoenix,FL,29880,Asthma
+P0486,Patient_1155,Female,52.0,San Antonio,  NY  ,54439,Hypertension
+P0443,Patient_1156,Male,65.0,San Antonio,CA,24308,None
+P0274,Patient_1157,Female,89.0,Houston,FL,45081,
+P0755,Patient_1158,Female,62.0,San Diego,NY,85242,Hypertension
+P0114,Patient_1159,Male,89.0,San Antonio,  NY  ,60383,Diabetes
+P0430,Patient_1160,Female,36.0,San Antonio,Florida,19837,Hypertension
+P0284,Patient_1161,Male,80.0,Philadelphia,TX,62151,Hypertension
+P0679,Patient_1162,Male,55.0,San Diego,California,46824,Asthma
+P0487,Patient_1163,Female,84.0,Houston,ny,43073,
+P0668,Patient_1164,Male,76.0,Los Angeles,California,36299,None
+P0046,Patient_1165,Female,,Phoenix,IL,68861,Diabetes
+P0396,Patient_1166,Female,,Houston,  NY  ,40063,Diabetes
+P0600,Patient_1167,Female,64.0,Houston,NY,79453,Diabetes
+P0008,Patient_1168,Male,78.0,New York,FL,78472,Diabetes
+P0302,Patient_1169,Male,48.0,Houston,nan,24506,Arthritis
+P0212,Patient_1170,Female,39.0,San Diego,FL,89854,None
+P0138,Patient_1171,Other,60.0,New York,New York,36026,None
+P0256,Patient_1172,Female,84.0,Phoenix,CA,37672,Hypertension
+P0329,Patient_1173,Male,71.0,San Antonio,nan,48417,Hypertension
+P0008,Patient_1174,Female,27.0,Philadelphia,new york,62413,Asthma
+P0748,Patient_1175,Female,59.0,Philadelphia,FL,75066,Diabetes
+P0176,Patient_1176,Female,81.0,Phoenix,California,69213,
+P0381,Patient_1177,Male,38.0,Phoenix,new york,60971,None
+P0704,Patient_1178,Female,83.0,San Diego,Illinois,37281,Hypertension
+P0501,Patient_1179,Female,58.0,Chicago,Florida,38091,None
+P0834,Patient_1180,Other,41.0,San Antonio,FL,60494,Asthma
+P0807,Patient_1181,Male,52.0,Phoenix,new york,28610,Diabetes
+P0073,Patient_1182,Female,73.0,Houston,NY,11079,Asthma
+P0862,Patient_1183,Female,47.0,San Diego,Texas,56751,Hypertension
+P0043,Patient_1184,Male,74.0,Philadelphia,Texas,96126,Diabetes
+P0019,Patient_1185,Female,64.0,Los Angeles,ny,65432,Arthritis
+P0922,Patient_1186,Female,,San Diego,NY,40951,None
+P0863,Patient_1187,Male,36.0,Philadelphia,NY,90863,Hypertension
+P0576,Patient_1188,Male,25.0,New York,nan,88291,Hypertension
+P0574,Patient_1189,Female,43.0,San Diego,IL,69872,None
+P0710,Patient_1190,Male,88.0,Philadelphia,nan,17235,None
+P0418,Patient_1191,Female,47.0,Chicago,ny,92733,None
+P0116,Patient_1192,Male,24.0,San Diego,nan,72712,Hypertension
+P0021,Patient_1193,Female,84.0,San Diego,New York,31473,None
+P0325,Patient_1194,Male,82.0,San Antonio,TX,77567,
+P0802,Patient_1195,Female,53.0,Phoenix,Illinois,89823,Arthritis
+P0619,Patient_1196,Other,42.0,San Antonio,CA,42230,Diabetes
+P0833,Patient_1197,Other,54.0,San Diego,California,94573,Arthritis
+P0920,Patient_1198,Female,18.0,Phoenix,New York,78876,Hypertension
+P0089,Patient_1199,Male,32.0,Philadelphia,New York,50644,Hypertension
+P0845,Patient_1200,Female,54.0,Los Angeles,FL,58664,Hypertension
+P0244,Patient_1201,Male,30.0,Los Angeles,FL,55203,Diabetes
+P0589,Patient_1202,Male,25.0,San Diego,IL,76677,Arthritis
+P0524,Patient_1203,Male,22.0,Chicago,Texas,35425,None
+P0396,,Female,77.0,New York,FL,94817,None
+P0311,Patient_1205,Female,18.0,Philadelphia,NY,95961,Diabetes
+P0340,Patient_1206,Female,53.0,Phoenix,ny,79806,None
+P0334,Patient_1207,Male,52.0,San Diego,nan,52814,Arthritis
+P0169,Patient_1208,Male,83.0,Philadelphia,NY,80219,
+P0511,Patient_1209,Other,,San Diego,FL,59646,Diabetes
+P0115,Patient_1210,Male,40.0,Chicago,ny,49884,Arthritis
+P0510,Patient_1211,Male,26.0,Houston,Florida,79322,None
+P0906,Patient_1212,Male,51.0,Houston,Florida,31650,Arthritis
+P0350,Patient_1213,Female,63.0,Chicago,new york,19190,Hypertension
+P0728,Patient_1214,Female,21.0,Phoenix,  NY  ,48196,Asthma
+P0819,Patient_1215,Male,47.0,San Antonio,FL,49449,Diabetes
+P0816,Patient_1216,Male,89.0,Chicago,CA,49661,None
+P0237,Patient_1217,Female,20.0,San Diego,ny,39709,None
+P0147,Patient_1218,Female,31.0,Phoenix,Florida,90428,Diabetes
+P0198,Patient_1219,Male,77.0,Los Angeles,ny,85179,None
+P0603,Patient_1220,Female,62.0,Chicago,nan,19943,Hypertension
+P0761,Patient_1221,Male,51.0,Phoenix,TX,53240,None
+P0656,Patient_1222,Male,62.0,Chicago,New York,55760,Hypertension
+P0178,Patient_1223,Female,78.0,Chicago,FL,31042,Diabetes
+P0773,Patient_1224,Male,33.0,San Antonio,TX,53894,Hypertension
+P0495,Patient_1225,Female,83.0,San Antonio,  NY  ,16869,Hypertension
+P0755,Patient_1226,Male,57.0,San Diego,California,71078,Diabetes
+P0760,Patient_1227,Male,34.0,Phoenix,  NY  ,66759,Asthma
+P0449,Patient_1228,Other,51.0,Phoenix,  NY  ,54306,Asthma
+P0925,Patient_1229,Male,33.0,New York,ny,65371,None
+P0565,Patient_1230,Female,77.0,Chicago,CA,30918,Diabetes
+P0636,Patient_1231,Male,83.0,Houston,  NY  ,38379,Asthma
+P0625,Patient_1232,Male,83.0,Chicago,FL,93232,Diabetes
+P0865,Patient_1233,Male,30.0,Chicago,FL,12962,
+P0628,Patient_1234,Female,73.0,Phoenix,TX,23851,Diabetes
+P0151,Patient_1235,Male,48.0,Chicago,IL,55747,None
+P0069,Patient_1236,Female,51.0,Philadelphia,Illinois,62349,None
+P0443,Patient_1237,Male,56.0,Chicago,Texas,80832,Asthma
+P0303,Patient_1238,Other,84.0,Philadelphia,FL,66356,Hypertension
+P0275,Patient_1239,Male,25.0,San Antonio,  NY  ,24745,
+P0057,Patient_1240,Female,72.0,Houston,nan,15730,Hypertension
+P0508,Patient_1241,Female,44.0,San Diego,NY,23921,None
+P0311,Patient_1242,Female,70.0,Phoenix,CA,81138,None
+P0452,,Female,56.0,Chicago,Florida,93111,Diabetes
+P0057,Patient_1244,Female,82.0,Philadelphia,NY,29023,Asthma
+P0832,Patient_1245,Female,34.0,Philadelphia,ny,55349,None
+P0077,Patient_1246,Male,47.0,San Antonio,Texas,91533,Arthritis
+P0865,Patient_1247,Male,70.0,Philadelphia,Texas,93286,Diabetes
+P0856,Patient_1248,Female,30.0,San Diego,Florida,51979,Hypertension
+P0616,Patient_1249,Female,38.0,Los Angeles,Illinois,32837,Hypertension
+P0508,Patient_1250,Female,,New York,New York,24997,None
+P0463,Patient_1251,Female,70.0,San Diego,NY,98603,
+P0555,Patient_1252,Male,36.0,Houston,FL,55039,Asthma
+P0792,Patient_1253,Male,74.0,San Diego,CA,30923,None
+P0896,Patient_1254,Female,42.0,San Antonio,FL,18876,Arthritis
+P0450,Patient_1255,Male,48.0,San Antonio,ny,70973,None
+P0810,Patient_1256,Male,72.0,San Diego,TX,12887,Asthma
+P0652,Patient_1257,Female,40.0,Chicago,TX,73723,Diabetes
+P0322,Patient_1258,Male,49.0,Los Angeles,Texas,52422,None
+P0476,Patient_1259,Female,79.0,Chicago,TX,61413,Asthma
+P0151,Patient_1260,Male,27.0,Chicago,TX,12841,Diabetes
+P0062,Patient_1261,Female,89.0,San Diego,CA,38756,
+P0104,Patient_1262,Male,71.0,Phoenix,NY,81576,Diabetes
+P0900,,Male,69.0,Phoenix,NY,20304,Asthma
+P0344,,Male,37.0,Phoenix,California,40341,None
+P0715,Patient_1265,Male,49.0,Los Angeles,CA,14758,None
+P0505,Patient_1266,Male,31.0,Chicago,TX,27010,None
+P0173,,Male,67.0,New York,CA,70758,Diabetes
+P0248,Patient_1268,Female,45.0,Houston,FL,41658,Hypertension
+P0438,Patient_1269,Male,70.0,Phoenix,nan,59002,Diabetes
+P0440,Patient_1270,Female,41.0,Phoenix,  NY  ,11375,None
+P0523,Patient_1271,Female,39.0,San Antonio,ny,32092,
+P0159,Patient_1272,Female,47.0,Chicago,New York,10490,Arthritis
+P0373,Patient_1273,Male,80.0,Chicago,FL,13729,None
+P0283,Patient_1274,Female,21.0,Los Angeles,California,15974,Hypertension
+P0409,Patient_1275,Male,76.0,Los Angeles,ny,95216,Hypertension
+P0339,Patient_1276,Male,25.0,Phoenix,FL,93860,None
+P0598,Patient_1277,Other,,Chicago,New York,31398,None
+P0790,Patient_1278,Male,48.0,New York,Texas,44650,Hypertension
+P0648,Patient_1279,Female,51.0,Houston,TX,31292,Asthma
+P0066,Patient_1280,Female,66.0,San Diego,Florida,13159,None
+P0095,Patient_1281,Female,74.0,Chicago,NY,72766,Diabetes
+P0679,Patient_1282,Female,43.0,San Antonio,nan,27065,Hypertension
+P0285,Patient_1283,Male,35.0,San Diego,Florida,31638,Diabetes
+P0724,Patient_1284,Male,55.0,Chicago,new york,11073,Asthma
+P0657,Patient_1285,Female,67.0,Philadelphia,ny,56511,Diabetes
+P0907,Patient_1286,Male,25.0,Los Angeles,California,94307,Hypertension
+P0874,Patient_1287,Male,58.0,San Antonio,Illinois,39320,Hypertension
+P0334,Patient_1288,Male,23.0,Houston,Illinois,79876,Asthma
+P0583,Patient_1289,Male,86.0,Phoenix,TX,44924,None
+P0142,Patient_1290,Male,61.0,San Antonio,nan,91720,None
+P0350,,Male,81.0,Chicago,NY,50734,None
+P0968,Patient_1292,Female,46.0,Phoenix,NY,78116,Arthritis
+P0699,,Female,45.0,Chicago,nan,50025,Diabetes
+P0392,Patient_1294,Female,28.0,Phoenix,IL,12159,Hypertension
+P0596,Patient_1295,Male,82.0,Houston,TX,58940,None
+P0939,Patient_1296,Male,36.0,Los Angeles,IL,89436,Hypertension
+P0310,Patient_1297,Male,26.0,Houston,nan,86976,
+P0377,Patient_1298,Female,44.0,Philadelphia,IL,24678,None
+P0792,Patient_1299,Female,51.0,New York,Illinois,71075,Hypertension
+P0814,Patient_1300,Male,61.0,Los Angeles,IL,57204,Hypertension
+P0671,Patient_1301,Female,85.0,Houston,ny,22021,None
+P0829,Patient_1302,Male,32.0,Philadelphia,Illinois,16772,None
+P0739,Patient_1303,Female,68.0,New York,ny,77163,Hypertension
+P0686,Patient_1304,Female,30.0,Philadelphia,nan,83755,None
+P0527,Patient_1305,Female,66.0,Chicago,TX,33464,Arthritis
+P0647,Patient_1306,Female,87.0,San Diego,FL,61137,None
+P0424,Patient_1307,Female,73.0,Chicago,TX,40232,Diabetes
+P0362,Patient_1308,Male,68.0,Phoenix,NY,71497,Diabetes
+P0363,Patient_1309,Female,54.0,Los Angeles,  NY  ,84024,Arthritis
+P0181,Patient_1310,Male,34.0,Chicago,nan,61448,None
+P0215,Patient_1311,Female,75.0,San Antonio,nan,94517,Arthritis
+P0948,Patient_1312,Female,46.0,Philadelphia,CA,10901,Diabetes
+P0487,Patient_1313,Female,50.0,Los Angeles,nan,97980,Diabetes
+P0227,Patient_1314,Male,77.0,San Diego,Illinois,93597,None
+P0138,Patient_1315,Female,,San Antonio,FL,12881,Diabetes
+P0078,Patient_1316,Female,27.0,Chicago,NY,39863,Asthma
+P0845,Patient_1317,Female,64.0,Phoenix,nan,15622,Diabetes
+P0102,Patient_1318,Male,40.0,Houston,Texas,11378,Diabetes
+P0771,Patient_1319,Male,38.0,Phoenix,nan,93168,Arthritis
+P0836,Patient_1320,Male,30.0,San Antonio,Illinois,81186,Arthritis
+P0884,Patient_1321,Male,50.0,New York,Illinois,55201,Hypertension
+P0038,Patient_1322,Female,41.0,Chicago,FL,69251,Hypertension
+P0337,Patient_1323,Male,,San Antonio,  NY  ,82572,None
+P0767,Patient_1324,Other,34.0,New York,CA,49255,Hypertension
+P0132,Patient_1325,Male,85.0,New York,CA,73212,Asthma
+P0377,Patient_1326,Male,64.0,Philadelphia,NY,60210,None
+P0163,Patient_1327,Female,42.0,Los Angeles,Texas,32499,Diabetes
+P0832,Patient_1328,Female,38.0,Philadelphia,FL,61628,None
+P0772,Patient_1329,Female,,Chicago,nan,71360,Diabetes
+P0810,Patient_1330,Female,54.0,New York,New York,14603,Asthma
+P0166,Patient_1331,Female,59.0,San Diego,TX,95473,Hypertension
+P0438,Patient_1332,Male,34.0,San Antonio,NY,22632,None
+P0411,Patient_1333,Other,65.0,Houston,NY,40607,Hypertension
+P0677,Patient_1334,Other,45.0,New York,NY,75756,Hypertension
+P0238,Patient_1335,Female,58.0,San Antonio,Florida,56994,None
+P0445,Patient_1336,Male,64.0,San Diego,NY,73382,
+P0285,Patient_1337,Female,35.0,Houston,Florida,80354,Asthma
+P0749,Patient_1338,Male,88.0,Philadelphia,new york,66344,Hypertension
+P0449,Patient_1339,Male,30.0,Philadelphia,nan,63775,None
+P0535,Patient_1340,Male,30.0,Los Angeles,Illinois,17349,Diabetes
+P0310,Patient_1341,Male,48.0,San Antonio,nan,81154,Diabetes
+P0809,Patient_1342,Female,19.0,New York,nan,37464,Asthma
+P0470,Patient_1343,Female,33.0,Phoenix,nan,52624,Hypertension
+P0836,Patient_1344,Female,26.0,Philadelphia,nan,47344,None
+P0368,Patient_1345,Male,55.0,Philadelphia,FL,93791,None
+P0948,Patient_1346,Male,71.0,Los Angeles,ny,34299,None
+P0985,Patient_1347,Male,73.0,Houston,  NY  ,57975,None
+P0462,Patient_1348,Other,62.0,Los Angeles,new york,11462,Arthritis
+P0282,Patient_1349,Male,51.0,San Diego,FL,91441,Diabetes
+P0382,Patient_1350,Female,,New York,TX,91788,None
+P0528,Patient_1351,Female,25.0,San Antonio,nan,50581,Hypertension
+P0967,,Male,24.0,Chicago,nan,81289,Hypertension
+P0817,Patient_1353,Female,53.0,Chicago,California,24175,None
+P0802,Patient_1354,Female,35.0,San Antonio,TX,16191,Asthma
+P0139,Patient_1355,Female,20.0,Houston,nan,93434,None
+P0251,Patient_1356,Female,45.0,San Diego,  NY  ,94518,Hypertension
+P0642,Patient_1357,Male,87.0,Philadelphia,IL,90158,Arthritis
+P0875,Patient_1358,Male,61.0,Houston,new york,76537,Diabetes
+P0555,Patient_1359,Female,38.0,Philadelphia,FL,57645,Arthritis
+P0103,Patient_1360,Female,45.0,Philadelphia,  NY  ,33283,None
+P0846,Patient_1361,Male,71.0,Chicago,nan,96971,Asthma
+P0852,Patient_1362,Female,71.0,Houston,Texas,69123,Hypertension
+P0286,Patient_1363,Female,82.0,San Diego,ny,40024,
+P0764,Patient_1364,Female,38.0,Los Angeles,new york,59630,Diabetes
+P0273,Patient_1365,Male,30.0,Philadelphia,TX,40734,Arthritis
+P0906,Patient_1366,Female,74.0,Phoenix,nan,10515,None
+P0148,Patient_1367,Female,66.0,Phoenix,IL,76727,Hypertension
+P0438,Patient_1368,Male,71.0,Los Angeles,TX,56216,None
+P0947,Patient_1369,Male,27.0,Phoenix,CA,81833,None
+P0223,Patient_1370,Other,70.0,New York,TX,68755,Asthma
+P0452,Patient_1371,Male,61.0,Philadelphia,Florida,37856,Arthritis
+P0350,Patient_1372,Female,64.0,Los Angeles,IL,83870,None
+P0027,Patient_1373,Female,70.0,Houston,CA,34162,Hypertension
+P0054,Patient_1374,Male,63.0,Philadelphia,Florida,16008,Hypertension
+P0503,Patient_1375,Female,30.0,Los Angeles,FL,17987,Diabetes
+P0236,Patient_1376,Male,,Chicago,nan,72532,None
+P0995,Patient_1377,Female,41.0,San Diego,nan,13332,None
+P0375,Patient_1378,Male,19.0,Houston,IL,76323,None
+P0029,Patient_1379,Female,31.0,San Diego,Florida,48990,Diabetes
+P0931,Patient_1380,Male,27.0,Chicago,  NY  ,19873,Hypertension
+P0840,Patient_1381,Male,52.0,Philadelphia,Illinois,92542,Diabetes
+P0650,Patient_1382,Other,42.0,Houston,California,95761,Diabetes
+P0792,Patient_1383,Male,20.0,San Diego,  NY  ,46444,Arthritis
+P0138,Patient_1384,Female,34.0,Phoenix,CA,45340,None
+P0287,Patient_1385,Male,29.0,San Diego,Illinois,15033,None
+P0830,Patient_1386,Female,71.0,Los Angeles,New York,83324,Arthritis
+P0697,Patient_1387,Male,41.0,Philadelphia,TX,25689,Diabetes
+P0139,Patient_1388,Other,46.0,New York,TX,97134,Hypertension
+P0706,Patient_1389,Male,,San Diego,NY,10066,Hypertension
+P0449,Patient_1390,Male,42.0,Houston,ny,55246,None
+P0006,Patient_1391,Male,77.0,Houston,Illinois,17533,None
+P0080,Patient_1392,Male,82.0,San Antonio,Illinois,90639,Hypertension
+P0256,Patient_1393,Female,45.0,San Diego,  NY  ,80152,Hypertension
+P0835,Patient_1394,Male,33.0,Philadelphia,nan,69658,Diabetes
+P0549,Patient_1395,Female,64.0,Philadelphia,IL,48498,Hypertension
+P0728,Patient_1396,Male,75.0,Chicago,California,21772,Asthma
+P0528,Patient_1397,Male,,San Antonio,Florida,99385,Diabetes
+P0112,Patient_1398,Female,70.0,San Diego,nan,59036,Asthma
+P0289,,Female,59.0,Phoenix,TX,68531,None
+P0302,Patient_1400,Male,76.0,Chicago,new york,22940,Asthma
+P0048,Patient_1401,Male,64.0,San Antonio,nan,26932,Diabetes
+P0420,Patient_1402,Male,51.0,San Diego,FL,66827,Diabetes
+P0794,Patient_1403,Female,54.0,San Diego,New York,71431,Asthma
+P0458,Patient_1404,Female,23.0,Chicago,Texas,34648,Hypertension
+P0111,Patient_1405,Male,24.0,Phoenix,TX,42966,Hypertension
+P0906,,Female,42.0,San Antonio,nan,37777,Asthma
+P0597,Patient_1407,Female,50.0,San Diego,TX,42567,Asthma
+P0017,Patient_1408,Female,72.0,San Diego,  NY  ,27174,None
+P0516,Patient_1409,Female,75.0,San Antonio,FL,52598,Hypertension
+P0242,Patient_1410,Male,24.0,New York,TX,69199,None
+P0144,Patient_1411,Male,74.0,Chicago,new york,23798,Hypertension
+P0430,Patient_1412,Male,29.0,Chicago,Texas,75364,Diabetes
+P0615,Patient_1413,Male,33.0,Houston,Illinois,27558,
+P0241,,Female,60.0,Phoenix,NY,71084,Asthma
+P0417,,Female,24.0,Los Angeles,FL,54237,None
+P0665,Patient_1416,Male,68.0,New York,CA,75497,None
+P0086,Patient_1417,Male,49.0,San Antonio,  NY  ,10178,None
+P0975,Patient_1418,Male,25.0,San Antonio,CA,96006,None
+P0068,Patient_1419,Female,89.0,San Antonio,CA,27118,Arthritis
+P0527,Patient_1420,Male,62.0,New York,Illinois,32616,Asthma
+P0508,Patient_1421,Female,76.0,San Diego,  NY  ,10798,
+P0989,Patient_1422,Male,21.0,San Antonio,Florida,17601,None
+P0555,Patient_1423,Male,84.0,San Antonio,NY,35363,None
+P0391,Patient_1424,Other,46.0,Phoenix,nan,12795,Diabetes
+P0471,Patient_1425,Other,46.0,Philadelphia,FL,55264,None
+P0636,,Male,45.0,Philadelphia,Florida,82833,Diabetes
+P0982,Patient_1427,Female,61.0,Houston,  NY  ,13084,Hypertension
+P0254,Patient_1428,Female,21.0,Houston,California,86646,Hypertension
+P0017,Patient_1429,Female,26.0,San Antonio,new york,10731,Arthritis
+P0789,Patient_1430,Male,22.0,Phoenix,nan,11129,None
+P0345,Patient_1431,Female,73.0,San Antonio,TX,38022,Hypertension
+P0733,Patient_1432,Female,67.0,Houston,FL,11605,Diabetes
+P0629,Patient_1433,Female,32.0,New York,Florida,87506,
+P0772,Patient_1434,Male,49.0,New York,CA,54130,
+P0736,Patient_1435,Male,45.0,San Diego,Florida,39265,Hypertension
+P0333,Patient_1436,Male,39.0,Los Angeles,FL,42330,Hypertension
+P0045,Patient_1437,Female,34.0,Philadelphia,Florida,78469,Diabetes
+P0547,Patient_1438,Male,76.0,Phoenix,TX,25187,Asthma
+P0814,Patient_1439,Female,88.0,Chicago,CA,35791,Hypertension
+P0176,Patient_1440,Other,74.0,Philadelphia,new york,80610,None
+P0780,Patient_1441,Male,43.0,Chicago,Illinois,49867,Diabetes
+P0465,,Female,42.0,Los Angeles,FL,10893,Arthritis
+P0696,Patient_1443,Male,27.0,Los Angeles,California,29773,Hypertension
+P0632,Patient_1444,Female,62.0,San Antonio,nan,14239,Asthma
+P0812,Patient_1445,Male,28.0,Houston,NY,30863,Hypertension
+P0064,Patient_1446,Female,,Los Angeles,nan,61415,None
+P0777,Patient_1447,Female,89.0,Los Angeles,nan,78968,
+P0458,Patient_1448,Female,85.0,Chicago,nan,70430,None
+P0294,Patient_1449,Female,45.0,Houston,Illinois,11515,Asthma
+P0044,Patient_1450,Female,82.0,Los Angeles,CA,24605,Asthma
+P0200,Patient_1451,Female,,Philadelphia,new york,66240,None
+P0042,Patient_1452,Female,64.0,San Diego,Florida,15586,
+P0934,Patient_1453,Female,69.0,Los Angeles,CA,41186,Diabetes
+P0516,Patient_1454,Male,71.0,San Diego,ny,36928,None
+P0990,Patient_1455,Female,77.0,Houston,IL,93087,Hypertension
+P0544,Patient_1456,Female,74.0,San Antonio,CA,97029,Diabetes
+P0254,Patient_1457,Female,64.0,Phoenix,nan,30711,Hypertension
+P0754,Patient_1458,Male,48.0,Houston,Illinois,64962,Hypertension
+P0192,Patient_1459,Female,63.0,Chicago,Illinois,30039,Asthma
+P0357,Patient_1460,Male,43.0,Phoenix,IL,46561,Hypertension
+P0781,Patient_1461,Female,22.0,Philadelphia,nan,85483,Diabetes
+P0866,Patient_1462,Male,69.0,New York,Illinois,91395,Diabetes
+P0332,Patient_1463,Female,71.0,San Diego,FL,98658,Asthma
+P0125,Patient_1464,Other,50.0,San Diego,  NY  ,11577,None
+P0369,Patient_1465,Male,67.0,San Diego,nan,38350,Hypertension
+P0890,Patient_1466,Other,55.0,Houston,Illinois,43798,Diabetes
+P0744,Patient_1467,Male,44.0,San Diego,TX,91417,Diabetes
+P0895,Patient_1468,Female,32.0,San Antonio,NY,20785,None
+P0387,Patient_1469,Female,78.0,San Diego,FL,82227,Asthma
+P0974,Patient_1470,Female,38.0,Chicago,NY,71957,Asthma
+P0497,Patient_1471,Female,63.0,Philadelphia,nan,75431,Diabetes
+P0498,Patient_1472,Female,86.0,San Diego,nan,27297,
+P0925,Patient_1473,Male,23.0,San Diego,ny,81894,Asthma
+P0520,Patient_1474,Male,55.0,Phoenix,FL,73772,Hypertension
+P0802,Patient_1475,Female,79.0,Philadelphia,NY,29581,Diabetes
+P0728,Patient_1476,Female,79.0,San Diego,Florida,65192,Hypertension
+P0079,Patient_1477,Female,63.0,Houston,CA,11462,None
+P0603,Patient_1478,Female,30.0,Los Angeles,FL,74173,None
+P0823,Patient_1479,Male,20.0,San Antonio,CA,25511,Arthritis
+P0546,Patient_1480,Female,23.0,Houston,New York,86106,None
+P0322,Patient_1481,Male,25.0,New York,California,58665,Diabetes
+P0081,Patient_1482,Female,61.0,Houston,New York,54414,Asthma
+P0661,Patient_1483,Male,50.0,Phoenix,Texas,91010,Arthritis
+P0307,Patient_1484,Male,67.0,Phoenix,NY,82573,Hypertension
+P0603,Patient_1485,Male,28.0,San Diego,TX,23386,None
+P0427,Patient_1486,Male,45.0,Houston,nan,64460,Diabetes
+P0690,Patient_1487,Female,87.0,Phoenix,Illinois,16221,Hypertension
+P0352,Patient_1488,Male,58.0,Los Angeles,nan,33474,Arthritis
+P0043,Patient_1489,Male,33.0,Philadelphia,nan,31045,Arthritis
+P0871,Patient_1490,Male,85.0,Houston,New York,14922,Arthritis
+P0353,Patient_1491,Male,65.0,San Antonio,New York,32706,Diabetes
+P0999,Patient_1492,Male,73.0,Los Angeles,Texas,52771,None
+P0275,Patient_1493,Male,81.0,San Diego,nan,62335,Asthma
+P0981,Patient_1494,Female,76.0,Philadelphia,nan,62949,Asthma
+P0948,Patient_1495,Female,79.0,San Antonio,NY,80714,None
+P0076,Patient_1496,Female,28.0,San Diego,CA,25240,None
+P0638,Patient_1497,Male,35.0,San Antonio,new york,12716,Diabetes
+P0364,Patient_1498,Male,36.0,San Diego,IL,26574,None
+P0802,Patient_1499,Female,72.0,San Antonio,FL,93255,Diabetes
